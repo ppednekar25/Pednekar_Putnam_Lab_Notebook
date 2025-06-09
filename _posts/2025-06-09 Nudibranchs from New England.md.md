@@ -5,8 +5,7 @@ date: '2025-09-06 15:00:00'
 categories: Fun Posts
 tags: [Fun Post, Sea Slug, Nudibranchs]
 ---
-### KNOW YOUR NUDIBRANCHS- NUDIBRANCHS FROM NEW ENGLAND 
+### KNOW YOUR NUDIBRANCHS:NUDIBRANCHS FROM NEW ENGLAND 
 
-*This post is a fun post for documenting the five nudibranch species if came across while tidepooling.*
-
+*This post is a fun post about the five nudibranch species I found in the intertidal rocks of Nahant, MA while tidepooling in the Spring 2025.*
 
