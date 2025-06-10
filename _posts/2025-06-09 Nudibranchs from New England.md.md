@@ -9,7 +9,7 @@ tags: [Fun Post, Sea Slug, Nudibranchs]
 
 *This post is a fun post about the four nudibranch species I found in the intertidal rocks of Nahant, MA while tidepooling in the Spring 2025.*
 
-![Nudibranch in the intertidal](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/68914c2e4090de0785194c3f06d90847165535ea/images/1.JPEG)![Headshot](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/68914c2e4090de0785194c3f06d90847165535ea/images/2.JPEG)
+![Nudibranch in the intertidal](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/68914c2e4090de0785194c3f06d90847165535ea/images/1.JPEG){: style="height:200px"}![Headshot](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/68914c2e4090de0785194c3f06d90847165535ea/images/2.JPEG){: style="height:200px"}
 
 
 ![alt-text-1](image1.png "title-1" =20%x) ![alt-text-2](image2.png "title-2" =75%x)
