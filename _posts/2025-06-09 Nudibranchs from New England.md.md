@@ -14,20 +14,19 @@ Nudibranchs are marine soft-bodied mollusks which have two main characteristics.
 
 There are typically two kinds of nudibranchs:
 
-A. Dorid Nudibranch- Flat disc shaped body, external gills on the back looking like a plume or tree.
+A. Dorid Nudibranch- Flat disc shaped body, external gills on the back looking like a plume or tree.Sometimes when they feel threatened, they retract their gills inside the body. 
 
 ![Dorid Nudibranch](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/6f04e44f109a62b7bc9220a402e29936e5f39e01/images/8.jpg?raw=true)
 Image: A Dorid Nudibranch( _Goniobranchus trimarginatus_ ) in the intertidal of India.
 
 
-B. Aeolid Nudibranch- Unlike dorids, aeolids have a narrow mantle with finger like extensions/projections called as the cerata (external gills in aeolids).
+B. Aeolid Nudibranch- Unlike dorids, aeolids have a narrow mantle with finger like extensions/projections called as the cerata (external gills in aeolids). The tips of the ceratas stored cnidosacs containing nematocysts obtained from their food sources like sea anemones, hydroids or other cnidarians.
 
 ![Aeolid Nudibranch](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/6f04e44f109a62b7bc9220a402e29936e5f39e01/images/9.JPG?raw=true)
 Image: A aeolid Nudibranch( _Coryphella trilineata_ ) on the Friday Harbor Laboratory Docks.
  
 ### 1. _Dendronotus frondosus_-Bushy-backed nudibranch
- - Belongs to the dorid kind of nudibranchs.
- - Dorid Nudibranchs have external gills (can see in Image 2) on their back that looks like a plume or tree.
+ - 
  - 
 ![Nudibranch in the intertidal](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/b2ad5a886235701d9da694b91ed4ceb32f42c46a/images/1.JPEG?raw=true)
 Image 1: Nudibranch in the intertidal 
