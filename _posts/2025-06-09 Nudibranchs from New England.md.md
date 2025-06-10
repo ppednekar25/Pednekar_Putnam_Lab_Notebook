@@ -9,9 +9,14 @@ tags: [Fun Post, Sea Slug, Nudibranchs]
 
 *This post is a fun post about the four nudibranch species I found in the intertidal rocks of Nahant, MA while tidepooling in the Spring 2025.*
 
-
-#1.
+ 
+#1. _Dendronotus frondosus_-Bushy-backed nudibranch
 ![Nudibranch in the intertidal](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/b2ad5a886235701d9da694b91ed4ceb32f42c46a/images/1.JPEG)
 
 ![Headshot](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/b2ad5a886235701d9da694b91ed4ceb32f42c46a/images/2.JPEG)
 
+#2. _Ancula gibbosa_-Humped Ancula Sea Slug
+
+#3. _Archidoris pseudoargus_-Sea Lemon
+
+#4. _Aeolidia papillosa_-Shag-rug nudibranch 
