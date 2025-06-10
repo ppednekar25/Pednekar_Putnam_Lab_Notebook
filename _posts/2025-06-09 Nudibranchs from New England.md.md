@@ -19,9 +19,9 @@ tags: [Fun Post, Sea Slug, Nudibranchs]
 
 #2. _Ancula gibbosa_-Humped Ancula Sea Slug
 
-![Nudibranch in the intertidal](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/b2ad5a886235701d9da694b91ed4ceb32f42c46a/images/3.JPEG)
+![Nudibranch in the intertidal](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/92c5383bdab43c89b3fb27dfa46bdaf1be4d5839/images/3.JPEG)
 
-![Feeding on hydroids](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/b2ad5a886235701d9da694b91ed4ceb32f42c46a/images/4.JPEG)
+![Feeding on hydroids](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/b2ad5a886235701d9da694b91ed4ceb32f42c46a/images/6.JPEG)
 
 #3. _Archidoris pseudoargus_-Sea Lemon
 
