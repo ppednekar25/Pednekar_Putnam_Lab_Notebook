@@ -29,28 +29,28 @@ Image: A aeolid Nudibranch( _Coryphella trilineata_ ) on the Friday Harbor Labor
  - Belongs to the dorid kind of nudibranchs.
  - Dorid Nudibranchs have external gills (can see in Image 2) on their back that looks like a plume or tree.
  - 
-![Nudibranch in the intertidal](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/b2ad5a886235701d9da694b91ed4ceb32f42c46a/images/1.JPEG)
+![Nudibranch in the intertidal](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/b2ad5a886235701d9da694b91ed4ceb32f42c46a/images/1.JPEG?raw=true)
 Image 1: Nudibranch in the intertidal 
 
-![Headshot](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/b2ad5a886235701d9da694b91ed4ceb32f42c46a/images/2.JPEG)
+![Headshot](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/b2ad5a886235701d9da694b91ed4ceb32f42c46a/images/2.JPEG?raw=true)
 Image 2: Headshot of the nudibranch
 
 ### 2. _Ancula gibbosa_-Humped Ancula Sea Slug
 
-![Nudibranch in the intertidal](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/92c5383bdab43c89b3fb27dfa46bdaf1be4d5839/images/3.JPEG)
+![Nudibranch in the intertidal](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/92c5383bdab43c89b3fb27dfa46bdaf1be4d5839/images/3.JPEG?raw=true)
 
-![Feeding on hydroids](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/5ab1fd2a201e0327fac7e86aa5708c2a979af9d7/images/6.JPEG)
+![Feeding on hydroids](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/5ab1fd2a201e0327fac7e86aa5708c2a979af9d7/images/6.JPEG?raw=true)
 
 ### 3. _Archidoris pseudoargus_-Sea Lemon
 
 - Belongs to the dorid type nudibranchs.
 - Dorid Nudibranchs have external gills (can see in Image 2) on their back that looks like a plume or tree.
 
-![Nudibranch in the intertidal](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/5ab1fd2a201e0327fac7e86aa5708c2a979af9d7/images/5.JPEG)
+![Nudibranch in the intertidal](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/5ab1fd2a201e0327fac7e86aa5708c2a979af9d7/images/5.JPEG?raw=true)
 
-![Gills of the dorids](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/5ab1fd2a201e0327fac7e86aa5708c2a979af9d7/images/4.JPEG)
+![Gills of the dorids](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/5ab1fd2a201e0327fac7e86aa5708c2a979af9d7/images/4.JPEG?raw=true)
 
 
 ### 4. _Aeolidia papillosa_-Shag-rug nudibranch 
 
-![Nudibranch on the mussel bed](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/6c3b07bfdfba310fda3e5745d99f200fd2d005ea/images/7.JPG)
+![Nudibranch on the mussel bed](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/6c3b07bfdfba310fda3e5745d99f200fd2d005ea/images/7.JPG?raw=true)
