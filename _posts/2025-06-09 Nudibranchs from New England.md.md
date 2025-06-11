@@ -71,10 +71,11 @@ Image : Extended gills of the dorid which looks like a plume (2025).
 Image : A individual of the shaggy mouse nudibranch found on a mussel bed (2025).
 
 
-Lastly, nudibranchs are cool and so are you!!! This post was just to enlighten cool creatures like the nudis that exists in the intertidals of the world and often go unnoticed.
 
-All the other images are clicked by me throught the Olympus TG-6 camera.
+# Lastly, nudibranchs are cool and so are you!!! This post was just to enlighten cool creatures like the nudis that exists in the intertidals of the world and often go unnoticed.
 
-WELCOME TO THE SEA SLUG FAN CLUB!!!!
+All the images included in this post are clicked by me through the Olympus TG-6 camera *apart* from the cool click of the _Goniobranchus trimarginatus_ by my dad.
+
+# WELCOME TO THE SEA SLUG FAN CLUB!!!!
 
 
