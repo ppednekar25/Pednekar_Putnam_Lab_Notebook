@@ -17,7 +17,7 @@ There are typically two kinds of nudibranchs:
 A. Dorid Nudibranch- Flat disc shaped body, external gills on the back looking like a plume or tree. Sometimes when they feel threatened, they retract their gills inside the body. 
 
 ![Dorid Nudibranch](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/6f04e44f109a62b7bc9220a402e29936e5f39e01/images/8.jpg?raw=true)
-Image: A Dorid Nudibranch( _Goniobranchus trimarginatus_ ) in the intertidal of India (2021).
+Image: A Dorid Nudibranch( _Goniobranchus trimarginatus_ ) in the intertidal of India (2021); Image Credit: Datta Pednekar.
 
 
 B. Aeolid Nudibranch- Unlike dorids, aeolids have a narrow mantle with finger like extensions/projections called as the cerata (external gills in aeolids). The tips of the ceratas stored cnidosacs containing nematocysts obtained from their food sources like sea anemones, hydroids or other cnidarians.
@@ -72,6 +72,8 @@ Image : A individual of the shaggy mouse nudibranch found on a mussel bed (2025)
 
 
 Lastly, nudibranchs are cool and so are you!!! This post was just to enlighten cool creatures like the nudis that exists in the intertidals of the world and often go unnoticed.
+
+All the other images are clicked by me throught the Olympus TG-6 camera.
 
 WELCOME TO THE SEA SLUG FAN CLUB!!!!
 
