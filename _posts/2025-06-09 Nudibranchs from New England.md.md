@@ -7,7 +7,7 @@ tags: [Fun Post, Sea Slug, Sea slug Fan Club, Nudibranchs]
 ---
 # KNOW YOUR NUDIBRANCHS : NUDIBRANCHS FROM NEW ENGLAND 
 
-*This post is a fun post about the four nudibranch species I found in the intertidal rocks of Nahant, MA while tidepooling in the Spring 2025.*
+*This is a fun post about the four nudibranch species I found in the intertidal rocks of Nahant, MA while tidepooling in the Spring 2025.*
 
 ## **NUDIBRANCHS (nudus: Naked; brankhia: gills)**
 Nudibranchs are marine soft-bodied mollusks which have two main characteristics. They lack a shell unlike any other snail/mollusk and have external gills either in the form of gill plume or cerata.
