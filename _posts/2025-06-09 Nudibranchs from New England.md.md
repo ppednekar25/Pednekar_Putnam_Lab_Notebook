@@ -64,7 +64,7 @@ Image : Extended gills of the dorid which looks like a plume (2025).
 ### 4. _Aeolidia papillosa_-Shag-rug nudibranch/ Shaggy mouse nudibranch 
 
  - The shaggy mouse nudibranch has two dense rows of cerata.
- - As they are very cryptic to the surrounding because of their color, they are often go unnoticed and misinterpreted for anemones.
+ - As they are very cryptic to the surrounding because of their color, they often go unnoticed and misinterpreted for anemones.
  - This nudibranch species feeds on sea anemones and sometimes on hydroids. 
 
 ![Nudibranch on the mussel bed](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/6c3b07bfdfba310fda3e5745d99f200fd2d005ea/images/7.JPG?raw=true)
