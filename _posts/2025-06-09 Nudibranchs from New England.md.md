@@ -22,7 +22,7 @@ Image: A Dorid Nudibranch( _Goniobranchus trimarginatus_ ) in the intertidal of 
 
 B. Aeolid Nudibranch- Unlike dorids, aeolids have a narrow mantle with finger like extensions/projections called as the cerata (external gills in aeolids). The tips of the ceratas stored cnidosacs containing nematocysts obtained from their food sources like sea anemones, hydroids or other cnidarians.
 
-![Aeolid Nudibranch](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/6f04e44f109a62b7bc9220a402e29936e5f39e01/images/9.JPG?raw=true)
+![Aeolid Nudibranch](https://github.com/Pooja-P-25/Pednekar_Putnam_Lab_Notebook/blob/6f04e44f109a62b7bc9220a402e29936e5f39e01/images/9.jpg?raw=true)
 Image: A aeolid Nudibranch( _Coryphella trilineata_ ) on the Friday Harbor Laboratory Docks.
  
 ### 1. _Dendronotus frondosus_-Bushy-backed nudibranch
