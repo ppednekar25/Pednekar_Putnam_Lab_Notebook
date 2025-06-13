@@ -92,7 +92,7 @@ III. Practices for documenting experimental records
        depicting the results.
     2. Calculated Data: Data generated as a result of any calculation. Do not forget to include 
        the formulas or equations used to get those numbers.
-    3. Transcribed Data: This type of data is generally copied from any source. Please include          original location of the copy.
+    3. Transcribed Data: This type of data is generally copied from any source. Please include original location of the copy.
 - If you are using any abbrevations make sure you define those whenever in use, at the base 
   of the page or the notebook can have designated pages for abbrevations.
 - Indicate if the observations followed the project hypotheses or include any deviations if there are any. This is also a great space to add your questions as well as any suggestions you think might work for deviations. 
