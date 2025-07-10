@@ -125,7 +125,7 @@ Contents:
   - The zero point should be within pH 6 and 8, the slope not less than -52 mV/pH, and the potential change after 60s should not exceed 3 mV/30s.
 
     1. Use the three 80ml cups labeled "pH 4.0", "pH 7.0", and "pH 10.0". Add the appropriate pH buffer to each of the cups until filled halfway. Or the amount kept in the 50 mL tube.
-- *Note: Every week pour new pH solution into each 50 mL tube from the original bottle (2nd shelf on the right next to the Certified Reference Material). Mark date in the pH_calibration.csv file*.
+    *Note: Every week pour new pH solution into each 50 mL tube from the original bottle (2nd shelf on the right next to the Certified Reference Material). Mark date in the pH_calibration.csv file*.
     2. If a new buffer bottle is opened, write the date opened, your initials, and your lab on the bottle (ex: Opened 20180602 ES (Putnam)).
     3. Place the three cups in the Autosampler: Position 01 - pH 4.0, Position 02 - pH 7.0, Position 03 - pH 10.0.
     4. Place a 80 mL cup filled halfway with DI water into Position 00.
