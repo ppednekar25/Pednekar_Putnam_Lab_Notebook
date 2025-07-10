@@ -20,7 +20,7 @@ Added notes for personal use: Pooja Pednekar - 20250710
 
 **Make sure to take your time for each step of the titration process to ensure accuracy and precision of measurements. While this protocol is tedious, all steps and specifications are necessary to ensure confident titration measurements.**
 
-Contents
+Contents:
 - [**Materials**](#Materials)
 - [**Pre-Setup**](#Pre-Setup)
 - [**Setup**](#Setup)
