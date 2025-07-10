@@ -85,7 +85,7 @@ Contents:
     10. Remove the temperature probe from its slot and set it to the side while you purge the HCl.
     11. Make sure you note the usage in the Titrator Log book location near the window bar.
     
- 3. <a name="Rinsing_or_Purging"></a> **Purging_Acid_or_Acid_Rinsing**
+ 3. <a name="Rinsing_or_Purging"></a> **Purging/Rinsing with Acid**
  
     1. PURGING (RINSING): Using the Titrator tablet, tap “Manual”, "Burette", "Rinse". Set Titrant: HCl, Concentration: 0.1 mol/L, Drive: 1, Cycles: 3, Discharge volume: 100%, Fill rate: 100%. See notes below before pressing "Start".
     2. YOU MUST PARK THE AUTOSAMPLER FIRST (AT POSITION 00), OTHERWISE THE ACID WILL SPILL ALL OVER THE AUTOSAMPLER.
