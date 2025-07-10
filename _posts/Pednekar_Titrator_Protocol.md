@@ -126,7 +126,7 @@ Contents:
 
     1. Use the three 80ml cups labeled "pH 4.0", "pH 7.0", and "pH 10.0". Add the appropriate pH buffer to each of the cups until filled halfway. Or the amount kept in the 50 mL tube.
 - *Note: Every week pour new pH solution into each 50 mL tube from the original bottle (2nd shelf on the right next to the Certified Reference Material). Mark date in the pH_calibration.csv file*.
-
+s
     2. If a new buffer bottle is opened, write the date opened, your initials, and your lab on the bottle (ex: Opened 20180602 ES (Putnam)).
     3. Place the three cups in the Autosampler: Position 01 - pH 4.0, Position 02 - pH 7.0, Position 03 - pH 10.0.
     4. Place a 80 mL cup filled halfway with DI water into Position 00.
@@ -166,7 +166,6 @@ Contents:
     6. Click on the first row and then proceed to the analytical balance.
   
   *General notes from observations: Make sure to remove any bubbles from the walls as well as in the container before weighing. In addition, the lids of the weighing scale should be closed from all sides during taking the weight of the sample.*
-
     7. Weigh the sample from the Analytical Balance.
     8. See [“Protocol Procedure for Using the Balance”](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/Equipment_Protocols/Titrator_Protocols/Balance_Protocol.md)
     9. In this step, carefully add the sample into the 80ml cup until the scale reads 60g ± .5g or instructed otherwise.
