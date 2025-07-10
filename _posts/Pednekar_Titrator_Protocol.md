@@ -272,11 +272,11 @@ Contents:
 ![](https://raw.githubusercontent.com/meschedl/PPP-Lab-Resources/master/images/IMG_5347.jpg)
      6.  When a waste container is full, to request for it to be picked up by EHS (Environmental Health and Safety) use [this link](https://web.uri.edu/ehs/online-pickup/). Make sure to list out all contents of the containers. Also make sure to request a new plastic bottle if needed and new waste container labels when they are running low.
      7.  The SAA next to the titrator is for titrator and aquarium room wastes
-              
+              s
 ![](https://raw.githubusercontent.com/meschedl/PPP-Lab-Resources/master/images/IMG_5186.jpg)
 ![](https://raw.githubusercontent.com/meschedl/PPP-Lab-Resources/master/images/IMG_5187.jpg)
 
 13. <a name="AFTER PROCESSING DATA"></a> **AFTER DATA ANALYSIS**
- 1. After done with the analysis, manually enter the data in TA_cumulative_output on the LabX laptop as well as update the CRM_accuracy data file with the appropriate results.
- 2. Push all the data from your computer to the github repo.
+   1. After done with the analysis, manually enter the data in TA_cumulative_output on the LabX laptop as well as update the CRM_accuracy data file with the appropriate results.
+   2. Push all the data from your computer to the github repo.
 
