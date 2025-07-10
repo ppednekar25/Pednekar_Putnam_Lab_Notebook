@@ -190,6 +190,7 @@ Contents:
 7. <a name="SAMPLE_Titration"></a> **SAMPLE_Titration**
 
     1. Repeat step **[5]**. However, in step **[5.4]**, replace to [the sample name given on the sample bottle].
+    2. Do a Junk 2 after DI apart from the other samples.
 
 
 8. <a name="Measure_Salinity"></a> **Measure_Salinity**
