@@ -165,7 +165,8 @@ s
     5. Next to the “ID 1” column, there should be a column named “Weight [g].”
     6. Click on the first row and then proceed to the analytical balance.
   
-  *General notes from observations: Make sure to remove any bubbles from the walls as well as in the container before weighing. In addition, the lids of the weighing scale should be closed from all sides during taking the weight of the sample.*
+  *General notes from observations: Make sure to remove any bubbles from the walls as well as in the container before weighing. In addition, the lids of the weighing scale should be closed from all sides during taking the weight of the sample.*ss
+    
     7. Weigh the sample from the Analytical Balance.
     8. See [“Protocol Procedure for Using the Balance”](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/Equipment_Protocols/Titrator_Protocols/Balance_Protocol.md)
     9. In this step, carefully add the sample into the 80ml cup until the scale reads 60g ± .5g or instructed otherwise.
