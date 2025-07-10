@@ -257,13 +257,12 @@ Contents:
 
 12. <a name="Waste_Processing"></a> **Waste_Processing**
 
-**For details on waste processing and lab safety with waste, see this [GitHub Post](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Lab_Safety_and_Training/Chemical-and-Waste-Lab-Training-Info.md)**
-
+  **For details on waste processing and lab safety with waste, see this [GitHub Post](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Lab_Safety_and_Training/Chemical-and-Waste-Lab-Training-Info.md)**
      1. Look in the SDS, protocol, manual, and containers for signs of corrosive, flammable, reactive, toxic, harmful to the environment, etc. **The SDS is the Safety Data Sheet**, available by googling the chemical, will tell you all the hazards of that chemical
      2. For specifics on what hazards pertain to the chemical, look in the SDS
      3. If your solutions have any of these, the waste should be treated as hazardous and disposed of in a SAA (satellite accumulation area)
      4. Make a hazardous waste label for the waste container, list **all** components of the liquid and approximate percentages of each one. Put your PIs name, room number (CBLS 190; SAA cabinet BD12), and check off all types of hazards present. Add notes if applicable (ie if waste is from a kit, put the name of the kit as a reference)
-     5. For the tirator, we have these type of waste labels you will need to make: 
+     5. For the titrator, we have these type of waste labels you will need to make: 
               1. Mercuric chloride: 0.1%, seawater: 99.9%
               2. Solid waste: Mercuric chloride: 0.1%, seawater: 99.9%
               3. Seawater: 95%, HCl: 5%
