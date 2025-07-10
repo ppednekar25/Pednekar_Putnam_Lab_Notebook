@@ -163,9 +163,6 @@ Contents:
             1. Label ID Ex: "20210218_JUNK1"
     5. Next to the “ID 1” column, there should be a column named “Weight [g].”
     6. Click on the first row and then proceed to the analytical balance.
-  
-  *General notes from observations: Make sure to remove any bubbles from the walls as well as in the container before weighing. In addition, the lids of the weighing scale should be closed from all sides during taking the weight of the sample.*ss
-    
     7. Weigh the sample from the Analytical Balance.
     8. See [“Protocol Procedure for Using the Balance”](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/Equipment_Protocols/Titrator_Protocols/Balance_Protocol.md)
     9. In this step, carefully add the sample into the 80ml cup until the scale reads 60g ± .5g or instructed otherwise.
@@ -177,6 +174,8 @@ Contents:
     15. Begin Titration
     16. After the data are set into the system, and all cups are placed in their slots in the autosampler, press Start on the bottom right of the “Task Editor” window.
     17. Once started, each titration will take ~10.5 minutes, unless there is a change of the method from the instructor.
+
+*General notes from observations: Make sure to remove any bubbles from the walls as well as in the container before weighing. In addition, the lids of the weighing scale should be closed from all sides during taking the weight of the sample.*
 
 6. <a name="CRM_Titration"></a> **CRM_Titration**
 
