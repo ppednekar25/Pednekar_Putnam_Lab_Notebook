@@ -99,15 +99,16 @@ Contents:
         a. If a spill occurs, you must use the chemical wipes with DI water to soak up the acid.
     7. Using DI water, clean the acid cup. Leave upside down on Kim Wipe to dry.
     
-    - *Note: Before calibrations can be made*, 
-    a. Place the temperature probe back in its original slot before next steps.
-    b. Located at the right side, at the back of the Titrator, there will be a pH Sensor. Place the sensor in the position marked with a black arrow, next to the propeller.
-    c. Open the grey cap on the pH sensor and leave open throughout use. pH will not be measured otherwise.
-    d. Look at the top of the Sensor for KCl, make sure the KCl is filled to fully cover the metal inside by the grey cap, skip to [18]. If not, follow the step below.
-    e. If KCl reservoir is low, open the cap on the sensor’s reservoir and add a few drops of KCl on the opening.
-    f. Make sure that the cap is **open at all times**, so it can measure the pH.
-    g. Make sure the probe rinse reservoir is filled with KCl solution (a plastic tube on the right side of the InMotion Pro).
-    h. Once the pH probe is placed in its slot next to the propeller, fill a DI Only cup 2/3 full with DI water and place this cup in poistion 00. On the Titrator screen, "Park" the autosampler. The pH probe should always be submerged in a liquid (DI or its storage solution).
+    - *Note: Before calibrations can be made*
+    
+    1. Place the temperature probe back in its original slot before next steps.
+    2. Located at the right side, at the back of the Titrator, there will be a pH Sensor. Place the sensor in the position marked with a black arrow, next to the propeller.
+    3. Open the grey cap on the pH sensor and leave open throughout use. pH will not be measured otherwise.
+    4. Look at the top of the Sensor for KCl, make sure the KCl is filled to fully cover the metal inside by the grey cap, skip to [18]. If not, follow the step below.
+    5. If KCl reservoir is low, open the cap on the sensor’s reservoir and add a few drops of KCl on the opening.
+    6. Make sure that the cap is **open at all times**, so it can measure the pH.
+    7. Make sure the probe rinse reservoir is filled with KCl solution (a plastic tube on the right side of the InMotion Pro).
+    8. Once the pH probe is placed in its slot next to the propeller, fill a DI Only cup 2/3 full with DI water and place this cup in poistion 00. On the Titrator screen, "Park" the autosampler. The pH probe should always be submerged in a liquid (DI or its storage solution).
 
 4. <a name="pH_Calibration"></a> **pH_Calibration**
 
@@ -125,6 +126,7 @@ Contents:
 
     1. Use the three 80ml cups labeled "pH 4.0", "pH 7.0", and "pH 10.0". Add the appropriate pH buffer to each of the cups until filled halfway. Or the amount kept in the 50 mL tube.
 - *Note: Every week pour new pH solution into each 50 mL tube from the original bottle (2nd shelf on the right next to the Certified Reference Material). Mark date in the pH_calibration.csv file*.
+
     2. If a new buffer bottle is opened, write the date opened, your initials, and your lab on the bottle (ex: Opened 20180602 ES (Putnam)).
     3. Place the three cups in the Autosampler: Position 01 - pH 4.0, Position 02 - pH 7.0, Position 03 - pH 10.0.
     4. Place a 80 mL cup filled halfway with DI water into Position 00.
