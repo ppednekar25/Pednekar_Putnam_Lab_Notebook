@@ -183,12 +183,10 @@ Contents:
     2. Skip to [**Data_Analysis**](#Data_Analysis) to calculate total alkalinity of the CRM. Then check the accuracy of the data.
     3. **In every CRM Titration, it is necessary to report the accuracy in the “CRM_AccuracyData” file to test the accuracy.  If must never be more than 1% off. Accuracy must be tested before running any samples for the day.**
     4. While the CRM is run, you can go and collect samples from the Blue tanks.
+  *General notes from observations: Make sure you take the dKH the same time when you collect the samples from blue tanks 1,2,3 and 4.*
   
-**NEVER PROCEED BEYOND THIS STEP UNTIL THE CALCULATED CRM IS <1% OFF THE REPORTED CRM CERTIFICATE**
+**--------NEVER PROCEED BEYOND THIS STEP UNTIL THE CALCULATED CRM IS ONLY OFF BY <1%  OF THE REPORTED CRM CERTIFICATE------------**
     
-    - *General notes from observations: Make sure you take the dKH the same time when you collect the samples from blue tanks 1,2,3 and 4.*
-    
-
 7. <a name="SAMPLE_Titration"></a> **SAMPLE_Titration**
 
     1. Repeat step **[5]**. However, in step **[5.4]**, replace to [the sample name given on the sample bottle].
