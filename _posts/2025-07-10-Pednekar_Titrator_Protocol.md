@@ -186,7 +186,7 @@ Contents:
   
 **NEVER PROCEED BEYOND THIS STEP UNTIL THE CALCULATED CRM IS <1% OFF THE REPORTED CRM CERTIFICATE**
     
-    *General notes from observations: Make sure you take the dKH the same time when you collect the samples from blue tanks 1,2,3 and 4.*
+    - *General notes from observations: Make sure you take the dKH the same time when you collect the samples from blue tanks 1,2,3 and 4.*
     
 
 7. <a name="SAMPLE_Titration"></a> **SAMPLE_Titration**
