@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025-07-10 Pednekar Titration Protocol for CBLS Wetlab
+title: Pednekar Titration Protocol for CBLS Wetlab
 date:  2025-07-10 
 categories: Titrator
 tags: [Titrator, Blue Tank Titrations, CBLS Wetlab,Putnam Lab]
