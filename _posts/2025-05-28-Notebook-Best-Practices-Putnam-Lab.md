@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tutorial for Lab Notebook Best Practices
-date: '2025-28-05 13:00:00'
+date: 2025-05-28
 categories: Protocols
 author: Pooja Pednekar
 tags: [Protocols, GitHub, Lab Notebook]
