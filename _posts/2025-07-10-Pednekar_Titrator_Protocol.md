@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 2025-06-04 Pednekar Titration Protocol for CBLS Wetlab
-date:  2025-06-04 
+title: 2025-07-10 Pednekar Titration Protocol for CBLS Wetlab
+date:  2025-07-10 
 categories: Titrator
 tags: [Titrator, Blue Tank Titrations, CBLS Wetlab,Putnam Lab]
 ---
@@ -183,6 +183,8 @@ Contents:
     2. Skip to [**Data_Analysis**](#Data_Analysis) to calculate total alkalinity of the CRM. Then check the accuracy of the data.
     3. **In every CRM Titration, it is necessary to report the accuracy in the “CRM_AccuracyData” file to test the accuracy.  If must never be more than 1% off. Accuracy must be tested before running any samples for the day.**
     4. While the CRM is run, you can go and collect samples from the Blue tanks.
+  
+**NEVER PROCEED BEYOND THIS STEP UNTIL THE CALCULATED CRM IS <1% OFF THE REPORTED CRM CERTIFICATE**
     
     *General notes from observations: Make sure you take the dKH the same time when you collect the samples from blue tanks 1,2,3 and 4.*
     
