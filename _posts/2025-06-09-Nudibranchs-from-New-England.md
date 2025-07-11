@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nudibranch species found during intertidal exploration
-date: '2025-09-06 15:00:00'
+date: 2025-06-09
 categories: Fun Posts
 tags: [Fun Post, Sea Slug, Sea slug Fan Club, Nudibranchs]
 ---
