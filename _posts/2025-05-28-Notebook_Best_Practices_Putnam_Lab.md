@@ -7,8 +7,9 @@ author: Pooja Pednekar
 tags: [Protocols, GitHub, Lab Notebook]
 ---
 
-#  LAB NOTEBOOK BEST PRACTICES
- ### This tutorial outlines the recommended approach for maintaining a written laboratory notebook, helping ensure data organization and integrity throughout the research process.
+##  LAB NOTEBOOK BEST PRACTICES
+
+## This tutorial outlines the recommended approach for maintaining a written laboratory notebook, helping ensure data organization and integrity throughout the research process.
 _Created by Pooja Pednekar_
 
 _Center for Environmental and Life Sciences, Department of Biological Sciences_
