@@ -14,7 +14,7 @@ from Putnam Lab [https://github.com/Putnam-Lab/Lab_Management/blob/a2e8ca8af2fe2
 
 - Since 2025-06-04 until 2025-07-03 Putnam and Puritz lab ran couple of titrations and after careful consideration of the CRM Accuracy data file, the CRMs were off from 1.7 to 2%. 
 - *Note: The inefficiency came into attention after recognizing that the CRM accuracy should have been tested after the CRM Totration is completed and not at the end of the sample titrations.For further titrations remember that NEVER PROCEED BEYOND THIS STEP UNTIL THE CALCULATED CRM IS ONLY OFF BY <1% OF THE REPORTED CRM CERTIFICATE *
-- In order to test and troubleshoot this inefficiency, along with Hollie Putnam (HP), I tried to adjust and recalibrate the pH probe and run the CRMs with the Batch #180.
+- In order to test and troubleshoot this inefficiency, along with Hollie Putnam (HP), we tried to adjust and recalibrate the pH probe and run the CRMs with the Batch #180.
 
 #### 1. pH probe cleaning, maintenance and calibration
 - Firstly, using the user manual present in the titrator supplies drawer (located on organismal side, BD11) go through the checks for the pH probe.
@@ -23,7 +23,7 @@ from Putnam Lab [https://github.com/Putnam-Lab/Lab_Management/blob/a2e8ca8af2fe2
 (add picture of the manual here)
 - After this is done, proceed to the adjustment and calibration step on the manual by running the pH calibration and observing the results.
 
- *Observations during this run: All the tests for pH calibrarion were passed by the probe. However, when checking the efficiency, HP noticed that even though the values fall within the expected range, there is not a steady incline instead the graph in between shows unusual loss and gains but still increases over the period of the analysis.*
+ *Observations during this run: All the tests for pH calibrarion were passed by the probe. However, when checking the efficiency, HP noticed that even though the values fall within the expected range, there is not a steady incline instead the graph in between shows unusual loss and gains but still increases over the period of the analysis.The graphs from all the pH calibration trails were also accurate and depicted an expected, steady decline straightline*
  
 - Following are the pH calibration values from today and the previous titration trails of Putnam Lab: 
 
@@ -37,11 +37,14 @@ from Putnam Lab [https://github.com/Putnam-Lab/Lab_Management/blob/a2e8ca8af2fe2
  
  - Below are the resulted CRM values from titrations which are off by >1% depicting the inaccuracy of CRMs! 
   
- |Date |	CRM value |	Batch value	| % off |	Batch #	|Notes |
-|-----------|-------------|--------------|------------|------------|--------------|
-|20250604|	2172.75906| 2224.47 |	-2.324640926 |	180	| CRM180_opened20250502_SS |
- |20250618 |	2185.806785 |	2224.47 |	-1.7380866 |	180	| CRM180_opened20250502_SS |
- |20250703 |	2183.678 |	2224.47 |	-1.833785126 |	180 |	CRM180_opened20250502_SS |
- |20250711 |	2176.875102| 2224.47 |	-2.139606209 |	180	| CRM180_opened20250502_SS  |
- |20250711 |	2180.854596	| 2224.47 |	-1.960709927 |	180 |	CRM180_opened20250502_SS |
- |20250711 |	2170.418622	| 2224.47	 | -2.429854215 |	180	| CRM180_opened20250502_SS |
+ |Date |	CRM value |	Batch value	| % off |	Batch #	|Status | Notes |
+|-----------|-------------|--------------|------------|--------|----|--------------|
+|20250604|	2172.75906| 2224.47 |	-2.324640926 |	180	| OK| CRM180_opened20250502_SS |
+ |20250618 |	2185.806785 |	2224.47 |	-1.7380866 |	180	| OK| CRM180_opened20250502_SS |
+ |20250703 |	2183.678 |	2224.47 |	-1.833785126 |	180 |	OK| CRM180_opened20250502_SS |
+ |20250711 |	2176.875102| 2224.47 |	-2.139606209 |	180	| OK| CRM180_opened20250502_SS  |
+ |20250711 |	2180.854596	| 2224.47 |	-1.960709927 |	180 |	OK | CRM180_opened20250502_SS |
+ |20250711 |	2170.418622	| 2224.47	 | -2.429854215 |	180	| OK | CRM180_opened20250502_SS |
+ 
+ 
+ *Observations from the previous titration trails: Even though the CRMs showed inaccuracy after running the analysis, the CRMs for all times of Batch #180 came out to be OK. With the Puritz lab, the CRMs titration results on LabX showed out to be NOT OKAY in addition with >2% off during analysis.*
