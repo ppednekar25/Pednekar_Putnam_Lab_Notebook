@@ -23,7 +23,7 @@ from Putnam Lab [https://github.com/Putnam-Lab/Lab_Management/blob/a2e8ca8af2fe2
 (add picture of the manual here)
 - After this is done, proceed to the adjustment and calibration step on the manual by running the pH calibration and observing the results.
 
-- *Observations during this run: All the tests for pH calibrarion were passed by the probe. However, when checking the efficiency, HP noticed that even though the values fall within the expected range, there is not a steady incline instead the graph in between shows unusual loss and gains but still increases over the period of the analysis.*
+ *Observations during this run: All the tests for pH calibrarion were passed by the probe. However, when checking the efficiency, HP noticed that even though the values fall within the expected range, there is not a steady incline instead the graph in between shows unusual loss and gains but still increases over the period of the analysis.*
  
 - Following are the pH calibration values from today and the previous titration trails of Putnam Lab: 
 
