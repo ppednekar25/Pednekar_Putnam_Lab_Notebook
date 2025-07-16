@@ -1,0 +1,24 @@
+---
+layout: post
+title: 2025-07-14 ZD Timeseries Titrations
+date:  2025-07-14 
+categories: Titrator, Timeseries
+tags: [ZD Timeseries, Titrator, Putnam Lab]
+---
+
+## [Zoe Dellaert](https://github.com/zdellaert) Timeseries Experiment Titrations
+
+Protocol Link from [Personal Notebook](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/a25ca69ccb2a655e29c2e72d019f6d1b3b9e4dfb/_posts/Pednekar_Titrator_Protocol.md) and 
+from [Putnam Lab](https://github.com/Putnam-Lab/Lab_Management/blob/a2e8ca8af2fe28021882a41421b8f2d9ad22d650/Lab_Resources/Equipment_Protocols/Titrator_Protocols/Titrator_Protocol.md)
+
+### Titrations of total 9 samples from ZD Timeseries Experimental Tanks along with 1 Junk and 3 CRMs from Batch #180.
+
+<font color="red">Note: Before starting the titrations there were some changes that were made.</font>
+
+
+ The CRM accuracy checks on [2025-07-11](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/cf477348aa627c0dbf43cca241572c86ceaaac74/_posts/2025-07-11-CRM-Accuracy-Checks-for-Titrator.md) depicted that the CRMs were off by 2-3%. Previously, calibrating the pH probe showed no abnormalities*. 
+
+*In order to account for that, Hollie Putnam decided to change the acid titrant batch#22 previously in use,  as it was very low in quantity, which she suspects could lead to possible contamination and evaporation, as we are pouring the purged acid back hence degrading the concentration of HCl in a small quantity resulting in CRMs being off.*
+
+**The new acid titrant Batch #A14 was opened and was used to carry out the titrations today. In addition to that, changes were made in the script to calculate the CRMs TA output based on the batch of the acid titrant. The information about the same is [here](https://github.com/Putnam-Lab/Lab_Management/blob/2d31a6549863f430668dfdfe1722d9385107df1b/images/calculation%20example%20for%20titrator.jpg).**
+
