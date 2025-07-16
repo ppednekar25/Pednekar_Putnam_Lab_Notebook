@@ -33,6 +33,9 @@ from [Putnam Lab](https://github.com/Putnam-Lab/Lab_Management/blob/a2e8ca8af2fe
 | 20250618 |	7.037	| -56.68	| 172.8 |	-0.4| -170.9 |	19.7 |	OK	| 20250618_JH|
 | 20250703 |	7.038	| -56.62 |	172.5|	0|	-171	|19.5|	OK |	20250703_PP|
  |20250711 |	7.035	| -56.48|	171.9 |	-0.1 |	-170.7 |	19.5 |	OK |	20250711_HP|
+ 
+- The plot for this pH calibration is below:
+![](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/1408cb7945a2d149c6482313c18166ed97add727/images/2025-07-11pHmvplot.png)
 
  
  - Below are the resulted CRM values from titrations which are off by >1% depicting the inaccuracy of CRMs! 
@@ -44,7 +47,7 @@ from [Putnam Lab](https://github.com/Putnam-Lab/Lab_Management/blob/a2e8ca8af2fe
  |20250703 |	     2183.678 |	2224.47 |	  -1.833 |	180     |	OK| CRM180_opened20250502_SS |
  |20250711 |	   2176.875| 2224.47 |	  -2.139 |	180   	| OK| CRM180_opened20250502_SS  |
  |20250711 |	  2180.854	| 2224.47 | 	-1.960  |	180    |	OK | CRM180_opened20250502_SS |
- |20250711 |	 2170.418	| 2224.47	 |  -2.429 |	180   	| OK | CRM180_opened20250502_SS |
+ |20250711 |	 2170.418	| 2224.47	 |  -2.429 s|	180   	| OK | CRM180_opened20250502_SS |
  
  
  *Observations from the previous titration trails: Even though the CRMs showed inaccuracy after running the analysis, the CRMs for all times of Batch #180 came out to be OK. With the Puritz lab, the CRMs titration results on LabX showed out to be NOT OKAY in addition with >2% off during analysis.*

@@ -12,6 +12,9 @@ from [Putnam Lab](https://github.com/Putnam-Lab/Lab_Management/blob/a2e8ca8af2fe
 
 ### Titrations of total 4 samples from CBLS Wetlab Blue Tanks along with 1 Junk and 1 CRM.
 
+- The plot for this pH calibration is below:
+![](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/1408cb7945a2d149c6482313c18166ed97add727/images/2025-06-18pHmvplot.png)
+
  *The dKH from the checker sample 6.7*
  
  
