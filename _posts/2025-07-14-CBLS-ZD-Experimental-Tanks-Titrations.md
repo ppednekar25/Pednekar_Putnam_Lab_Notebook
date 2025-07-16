@@ -39,7 +39,7 @@ from [Putnam Lab](https://github.com/Putnam-Lab/Lab_Management/blob/a2e8ca8af2fe
 
  |Date | ZeroPoint|	Slope |	pH4 | pH7 |	pH10 |	Temp |	Status |	Notes |
  |-----------|---------------|------------|------|------|---|---------|------|--------|
- |20250714|	7.021	|-56.5 |	171.0	| -0.6	| -171.7 |	19.6 |	<font color="green">OK</font> |	20250714_PP |
+ |20250714|	7.021	|-56.5 |	171.0	| -0.6	| -171.7 |	19.6 |	<font color="green"> OK</font> |	20250714_PP |
 
  
 - The plot for this pH calibration is below:
@@ -52,9 +52,9 @@ Below are the resulted 3 CRM values from titrations along with the junk.
   
  |Date | CRM value        |	Batch value         	| % off      |	Batch #   	|   Status |    Notes |
 |-----------|-------------|--------------|------------|--------|----------|--------------|
- |20250714| 2216.0944 | 2224.47 |  	-0.376 |	180     	| <font color="green">OK</font>| CRM180_opened20250502_SS |
- |20250714 | 2216.949 |	2224.47 |	  -0.338 |	180	     | <font color="green">OK</font>| CRM180_opened20250502_SS |
- |20250714 | 2220.393 |	2224.47 |	  -0.183 |	180     |	<font color="green">OK</font>| CRM180_opened20250714_PP |
+ |20250714| 2216.0944 | 2224.47 |  	-0.376 |	180     	| <font color="green"> OK</font>| CRM180_opened20250502_SS |
+ |20250714 | 2216.949 |	2224.47 |	  -0.338 |	180	     | <font color="green"> OK</font>| CRM180_opened20250502_SS |
+ |20250714 | 2220.393 |	2224.47 |	  -0.183 |	180     |	<font color="green"> OK</font>| CRM180_opened20250714_PP |
  
 
 
@@ -64,15 +64,15 @@ Below are the resulted 3 CRM values from titrations along with the junk.
 
 |Date | Sample ID                   | TA | Mass | Salinity | Status | Notes|
 |-----------|---------------------------|------------|------------|--------------|-------|----|
-| 20250714  | MT 1	|  2437.39  | 59.621  |   35.86 | <font color="maroon">NOT OK </font> ||
-| 20250714 | MT 2  |  2001.328   |   60.321  | 35.86  | <font color="green">OK</font> ||
-| 20250714 | MT 3  | 2311.705  | 60.030     |   35.86    |<font color="green">OK</font>||
-| 20250714 | T1  |   2342.135   | 59.98  |  35.00     |<font color="green">OK</font>||
-| 20250714 | T2 |  2338.999  | 60.338     |   35.11      |<font color="green">OK</font>||
-| 20250604 | T3 |   2311.705    | 59.881  |      35.08    |<font color="green">OK</font>||
-| 20250714 | T4  |   2330.225   | 59.451  |  35.03     |<font color="green">OK</font>||
-| 20250714 | T2 |  2360.789  | 59.812     |   35.11      |<font color="green">OK</font>||
-| 20250604 | T3 |   2327.480    | 59.799  |      35.04    |<font color="green">OK</font>||
+| 20250714  | MT 1	|  2437.39  | 59.621  |   35.86 | <font color="maroon"> NOT OK </font> ||
+| 20250714 | MT 2  |  2001.328   |   60.321  | 35.86  | <font color="green"> OK</font> ||
+| 20250714 | MT 3  | 2311.705  | 60.030     |   35.86    |<font color="green"> OK</font>||
+| 20250714 | T1  |   2342.135   | 59.98  |  35.00     |<font color="green"> OK</font>||
+| 20250714 | T2 |  2338.999  | 60.338     |   35.11      |<font color="green"> OK</font>||
+| 20250604 | T3 |   2311.705    | 59.881  |      35.08    |<font color="green"> OK</font>||
+| 20250714 | T4  |   2330.225   | 59.451  |  35.03     |<font color="green"> OK</font>||
+| 20250714 | T2 |  2360.789  | 59.812     |   35.11      |<font color="green"> OK</font>||
+| 20250604 | T3 |   2327.480    | 59.799  |      35.04    |<font color="green"> OK</font>||
 
 
 
