@@ -39,12 +39,12 @@ from [Putnam Lab](https://github.com/Putnam-Lab/Lab_Management/blob/a2e8ca8af2fe
   
  |Date |	CRM value        |	Batch value         	| % off      |	Batch #   	|   Status |    Notes |
 |-----------|-------------|--------------|------------|--------|----------|--------------|
- |20250604|	     2172.75906| 2224.47 |  	-2.324640926 |	180     	| OK| CRM180_opened20250502_SS |
- |20250618 |	    2185.806785 |	2224.47 |	  -1.7380866 |	180	     | OK| CRM180_opened20250502_SS |
- |20250703 |	     2183.678 |	2224.47 |	  -1.833785126 |	180     |	OK| CRM180_opened20250502_SS |
- |20250711 |	   2176.875102| 2224.47 |	  -2.139606209 |	180   	| OK| CRM180_opened20250502_SS  |
- |20250711 |	  2180.854596	| 2224.47 | 	-1.960709927 |	180    |	OK | CRM180_opened20250502_SS |
- |20250711 |	 2170.418622	| 2224.47	 |  -2.429854215 |	180   	| OK | CRM180_opened20250502_SS |
+ |20250604|	     2172.75| 2224.47 |  	-2.324 |	180     	| OK| CRM180_opened20250502_SS |
+ |20250618 |	    2185.80 |	2224.47 |	  -1.738  |	180	     | OK| CRM180_opened20250502_SS |
+ |20250703 |	     2183.678 |	2224.47 |	  -1.833 |	180     |	OK| CRM180_opened20250502_SS |
+ |20250711 |	   2176.875| 2224.47 |	  -2.139 |	180   	| OK| CRM180_opened20250502_SS  |
+ |20250711 |	  2180.854	| 2224.47 | 	-1.960  |	180    |	OK | CRM180_opened20250502_SS |
+ |20250711 |	 2170.418	| 2224.47	 |  -2.429 |	180   	| OK | CRM180_opened20250502_SS |
  
  
  *Observations from the previous titration trails: Even though the CRMs showed inaccuracy after running the analysis, the CRMs for all times of Batch #180 came out to be OK. With the Puritz lab, the CRMs titration results on LabX showed out to be NOT OKAY in addition with >2% off during analysis.*
