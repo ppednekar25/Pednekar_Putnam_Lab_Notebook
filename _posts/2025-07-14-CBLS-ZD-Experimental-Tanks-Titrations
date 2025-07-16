@@ -20,5 +20,5 @@ from [Putnam Lab](https://github.com/Putnam-Lab/Lab_Management/blob/a2e8ca8af2fe
 
 *In order to account for that, Hollie Putnam decided to change the acid titrant batch#22 previously in use,  as it was very low in quantity, which she suspects could lead to possible contamination and evaporation, as we are pouring the purged acid back hence degrading the concentration of HCl in a small quantity resulting in CRMs being off.*
 
-**The new acid titrant Batch #A14 was opened and was used to carry out the titrations today. In addition to that, changes were made in the script to calculate the CRMs TA output based on the batch of the acid titrant. The information about the same is [here](https://github.com/Putnam-Lab/Lab_Management/blob/2d31a6549863f430668dfdfe1722d9385107df1b/images/calculation%20example%20for%20titrator.jpg).**
+**<font color="purple">The new acid titrant Batch #A14 was opened and was used to carry out the titrations today.</font> In addition to that, changes were made in the script to calculate the CRMs TA output, based on the batch of the acid titrant. The information about the same is avaliable [here](https://github.com/Putnam-Lab/Lab_Management/blob/2d31a6549863f430668dfdfe1722d9385107df1b/images/calculation%20example%20for%20titrator.jpg).**
 
