@@ -58,5 +58,5 @@ Below are the resulted 2 CRM values from titrations.
 
  Overall observations: The titrations went all well however the expected TA values we got from the titrations is lowest since we have been dosing them with the Alkanlinity Reagent. 
 
- Other conclusions: Due to this, ZD and I checked if it is dosing right and recalibrated the Jebao and increased the volume of dosage for alkalinity from 15mls to 18mls with the previous four times a day interval. I would be following up with the checker regularly as well as with an upcoming titrations in next two weeks to see if it is going up. ZD thinks one of the reason this result is noticed is because of the corals using up the nutrients we are dosing and they are super excellent in health. 
+ <font color="purple">Other conclusions: Due to this, ZD and I checked if it is dosing right and recalibrated the Jebao and increased the volume of dosage for alkalinity from 15mls to 18mls with the previous four times a day interval. I would be following up with the checker regularly as well as with an upcoming titrations in next two weeks to see if it is going up. ZD thinks one of the reason this result is noticed is because of the corals using up the nutrients we are dosing and they are super excellent in health. </font>
 
