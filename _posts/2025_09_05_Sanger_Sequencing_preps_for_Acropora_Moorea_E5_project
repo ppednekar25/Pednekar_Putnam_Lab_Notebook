@@ -1,0 +1,89 @@
+---
+layout: post
+title: Sanger Sequencing Preps for Moorea E5 Project Acropora sp.
+date:  '2025-09-05' 
+categories: 
+tags: [E5, Acropora, Sanger Sequencing, PCR]
+---
+
+The samples processed today are of (*Acropora*) species. Total of 50 colonies of (*Acropora*) were collected as a part of E5 Moorea Project. Here, I am processing the gDNA samples extracted from these 50 colonies for Sanger sequencing to identify species within these genera. 
+
+This post is also adapted based on the procedure from Arianna Huffmyer [Notebook Post](https://github.com/AHuffmyer/ASH_Putnam_Lab_Notebook/blob/master/_posts/2024-11-20-Sanger-sequencing-preps-at-URI.md?plain=1). 
+
+# Overview
+
+gDNA extrcations for 44 of the colonies were completed by Kristina Terpis in 2021 and 2022. Some of the gDNA extractions from six colonies were sent off to Azenta for sequencing. Hence, Hollie Putnam extracted gDNA for those colonies on 08/29/2025. 
+
+My samples were included in different boxes which were extracted by Kristina. The gDNA samples I used for the colonies are below. The Master Molecular Sample List is [here](https://docs.google.com/spreadsheets/d/1A764av1a3VORX6m9aDUEcoY9Bx9l0fvGtV5ycm2J9Wo/edit?gid=0#gid=0) while the(*Acropora*) colony IDs for the master timeseries data is [here](https://github.com/urol-e5/timeseries/blob/master/time_series_analysis/Output/master_timeseries.csv).
+
+
+
+# Protocols Used
+
+- [Sanger Sequencing Preps](https://github.com/AHuffmyer/ASH_Putnam_Lab_Notebook/blob/master/_posts/2024-11-20-Sanger-sequencing-preps-at-URI.md)
+- [Analysis of DNA Sequenced](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/Analysis-of-DNA-sequences-for-species-identification-in-the-Moorea-2023-project/)
+- [Gel electrophoresis](https://emmastrand.github.io/EmmaStrand_Notebook/Gel-Electrophoresis-Protocol/) 
+- [PCR product cleaning](https://github.com/AHuffmyer/moorea_symbiotic_exchange_2023/blob/main/data/dna/pcr/protocol_zr-96_dna_clean-up_kit.pdf) 
+- [Sanger sequencing at URI](https://web.uri.edu/riinbre/mic/)
+- [Pocillopora spp gDNA Extraction Protocol](https://github.com/PierrickHarnay/PierrickHarnay_Notebook/blob/master/_posts/2024-09-26-PocID-Relative-abundance-gDNA-extraction.md)
+- [Pocillopora mtORF-PocHistone after PCR before cleaning](https://github.com/PierrickHarnay/PierrickHarnay_Notebook/blob/master/_posts/2024-10-09-PocID-Relative-abundance-gel-after-PCR-before-cleaning.md)
+
+
+# Acropora 
+
+## Primer selection 
+
+Hollie and Arianna have previously talked about the primers to use for *Acropora* species identification. Hollie previously tested some of the primers fromt he literature. Arianna have used both the PaxC (PaxC_intron_FP1 forward and PaxC_intron_RP1 reverse) and CRf/CO3r (CRF forward and CO3r reverse) which were avaliable in the lab previously while prepping *Acropora* samples in 2024. 
+
+This time, Hollie recommended to use the [CRf/CO3r](https://github.com/AHuffmyer/moorea_symbiotic_exchange_2023/blob/main/data/dna/pcr/acr-primers/primer1-1.jpeg) (CRF forward and CO3r reverse) primer. 
+
+CRf/CO3r:  
+
+- Mitochondrial putative control (933+ bp) + 83 bp of cytochrome oxidase III as in [Vollmer et al. 2002](https://www.science.org/doi/full/10.1126/science.1069524)
+
+
+The primers were hydrated but were present in their original concentration which was 100μM each. Hence, I diluted the primers as required for the Master mix to 10μM in two tubes.
+
+
+|Component|  Amount of Primer (μM) | Amount of Nuclease Free Water (μM) | Final Concentration of the product (μM)|
+|----------|------------|-------------|-----------|
+| CRf Primer 100μM |10μM|90μM|10μM|
+|CO3r Primer 100μM| 10μM|90μM|10μM|
+
+The diluted primers are stored in the tubes in the same "Putnam Lab Stick Primer Transparent Box on Shelf 1 -20 C Freezer F" along with the concentrated primers.
+
+### Crf/CO3r sequencing 
+
+I prepared one single PCR plate containing 52 samples; 50 of which were gDNA extracted from 50(*Acropora*) colonies by Kristina in 2021-2022 and Hollie in 2025. 
+
+I used a Danielle Becker Heatwave *Acropora pulchra* as a postive control (no. 24 gDNA from 10/29/23). Water was used as a negative control in the plate.
+
+the PCR pate maps for this PCR shows the tube number followed by colony ID of the sample collected. 
+
+The PCR Map for the plate is [here](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/master/images/PCR_Map.png).
+
+As the gDNA samples were present in the tubes and not plated on gDNA plates like before, I directly plated the samples onto the 96 well plates for PCR. 
+
+The PCR protocol ("Acro" on Putnam Account) was used similar to previous (*Acropora*) PCRs by Arianna. 
+
+The settings for the thermocycler is follows:
+- 95°C for 3 min [1 cycle]
+- 94°C for 30 sec, 53°C for 30 sec, 72°C for 1 min [35 cycles] *melting temperature chosen based on lowest primer melting temperature* 
+- 72°C for 5 min 
+- Hold at 4°C 
+
+I than ran two gels for the CRf/CO3r primer set using 2% gel at 80V for 90 min. I used only one DNA ladder of 1 KB for the same. 
+
+![ACR CRf/CO3r Gel 1](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/094911b938e4a365df157e68618b0a94866c48cf/images/E5_gDNA_Acropora_POST_PCR_gel_1_09_05_2025.jpg)
+![ACR CRf/CO3r Gel 2](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/094911b938e4a365df157e68618b0a94866c48cf/images/E5_gDNA_Acropora_POST_PCR_gel_2_09_05_2025.jpg)
+
+
+
+
+
+
+
+
+
+
+
