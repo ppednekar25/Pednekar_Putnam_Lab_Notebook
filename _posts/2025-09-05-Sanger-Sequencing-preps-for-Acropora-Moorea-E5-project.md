@@ -78,7 +78,7 @@ the PCR pate maps for this PCR shows the tube number followed by colony ID of th
 
 The PCR Map for the plate is below
 
-![PCR MAP](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/master/images/PCR_Map.png?=TRUE).
+![PCR MAP](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/master/images/PCR_Map.png?raw=TRUE).
 
 As the gDNA samples were present in the tubes and not plated on gDNA plates like before, I directly plated the samples onto the 96 well plates for PCR. 
 
@@ -96,8 +96,8 @@ After PCR, samples were stored in the 4 C fridge.
 
 I than ran two gels for the CRf/CO3r primer set using 2% gel at 80V for 90 min. I used only one DNA ladder of 1 KB for the same. 
 
-![ACR CRf/CO3r Gel 1](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/094911b938e4a365df157e68618b0a94866c48cf/images/E5_gDNA_Acropora_POST_PCR_gel_1_09_05_2025.jpg?=TRUE)
-![ACR CRf/CO3r Gel 2](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/094911b938e4a365df157e68618b0a94866c48cf/images/E5_gDNA_Acropora_POST_PCR_gel_2_09_05_2025.jpg?=TRUE)
+![ACR CRf/CO3r Gel 1](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/094911b938e4a365df157e68618b0a94866c48cf/images/E5_gDNA_Acropora_POST_PCR_gel_1_09_05_2025.jpg?raw=TRUE)
+![ACR CRf/CO3r Gel 2](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/094911b938e4a365df157e68618b0a94866c48cf/images/E5_gDNA_Acropora_POST_PCR_gel_2_09_05_2025.jpg?raw=TRUE)
 
 
 #### 2025-09-10
