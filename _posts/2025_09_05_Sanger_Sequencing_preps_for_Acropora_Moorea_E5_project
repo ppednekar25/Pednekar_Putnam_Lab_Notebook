@@ -40,19 +40,35 @@ This time, Hollie recommended to use the [CRf/CO3r](https://github.com/AHuffmyer
 CRf/CO3r:  
 
 - Mitochondrial putative control (933+ bp) + 83 bp of cytochrome oxidase III as in [Vollmer et al. 2002](https://www.science.org/doi/full/10.1126/science.1069524)
+|
+
+### Crf/CO3r sequencing 
+
+#### 2025-09-05
+
+- Mitochondrial putative control (933+ bp) + 83 bp of cytochrome oxidase III as in [Vollmer et al. 2002](https://www.science.org/doi/full/10.1126/science.1069524)
 
 
 The primers were hydrated but were present in their original concentration which was 100μM each. Hence, I diluted the primers as required for the Master mix to 10μM in two tubes.
 
 
-|Component|  Amount of Primer (μM) | Amount of Nuclease Free Water (μM) | Final Concentration of the product (μM)|
+|Component|  Volume of Primer (μL) | Volume of Nuclease Free Water (μL) | Final Concentration of the product (μM)|
 |----------|------------|-------------|-----------|
-| CRf Primer 100μM |10μM|90μM|10μM|
-|CO3r Primer 100μM| 10μM|90μM|10μM|
+| CRf Primer 100μM |10μL|90μL|10μM|
+|CO3r Primer 100μM| 10μL|90μL|10μM|
 
 The diluted primers are stored in the tubes in the same "Putnam Lab Stick Primer Transparent Box on Shelf 1 -20 C Freezer F" along with the concentrated primers.
 
-### Crf/CO3r sequencing 
+I prepared the master mix using One*Taq* Quick-Load 2X Master Mix from New England Biolabs. I made the master mix for 60 rxns as I was doing PCR for the first time. 
+
+|Component|1 rxns|60 rxns|
+|---------|---------|----------|
+|One*Taq* Quick-Load 2X master mix | 12.5 μL | 750 μL | 
+|10 μM CRf Primer| 0.5 μL|30 μL|
+|10 μM CO3r Primer| 0.5 μL|30 μL|
+|Nuclease Free Water|10.5 μL|630 μL|
+|DNA Template| 1μL | |
+|| 25 μL rxns |25 μL rxns|
 
 I prepared one single PCR plate containing 52 samples; 50 of which were gDNA extracted from 50(*Acropora*) colonies by Kristina in 2021-2022 and Hollie in 2025. 
 
@@ -60,7 +76,9 @@ I used a Danielle Becker Heatwave *Acropora pulchra* as a postive control (no. 2
 
 the PCR pate maps for this PCR shows the tube number followed by colony ID of the sample collected. 
 
-The PCR Map for the plate is [here](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/master/images/PCR_Map.png).
+The PCR Map for the plate is below
+
+![PCR MAP](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/master/images/PCR_Map.png?=TRUE).
 
 As the gDNA samples were present in the tubes and not plated on gDNA plates like before, I directly plated the samples onto the 96 well plates for PCR. 
 
@@ -68,9 +86,13 @@ The PCR protocol ("Acro" on Putnam Account) was used similar to previous (*Acrop
 
 The settings for the thermocycler is follows:
 - 95°C for 3 min [1 cycle]
-- 94°C for 30 sec, 53°C for 30 sec, 72°C for 1 min [35 cycles] *melting temperature chosen based on lowest primer melting temperature* 
+- 94°C for 30 sec, 53°C for 30 sec, 72°C for 1 min [35 cycles] 
+*Note: Melting temperature chosen based on lowest primer melting temperature* 
 - 72°C for 5 min 
 - Hold at 4°C 
+
+
+After PCR, samples were stored in the 4 C fridge. 
 
 I than ran two gels for the CRf/CO3r primer set using 2% gel at 80V for 90 min. I used only one DNA ladder of 1 KB for the same. 
 
@@ -78,7 +100,9 @@ I than ran two gels for the CRf/CO3r primer set using 2% gel at 80V for 90 min. 
 ![ACR CRf/CO3r Gel 2](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/094911b938e4a365df157e68618b0a94866c48cf/images/E5_gDNA_Acropora_POST_PCR_gel_2_09_05_2025.jpg?=TRUE)
 
 
+#### 2025-09-10
 
+For today, I redid PCR for two colonies that did not show any band for the gel ran on 2025-09-05. The two colony_ids with no band were ACR-140 and ACR-180.
 
 
 
