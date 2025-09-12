@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 20250-09-05 Sanger Sequencing Preps for Moorea E5 Project Acropora sp.
+title: 2025-09-05 Sanger Sequencing Preps for Moorea E5 Project Acropora sp.
 date:  2025-09-05
 categories: E5 Acropora Sanger sequencing
 tags: [E5, Acropora, Sanger Sequencing, PCR]
