@@ -93,12 +93,12 @@ After PCR, samples were stored in the 4 C fridge.
 
 I than ran two gels i.e. One Small and One Medium for the CRf/CO3r primer set using 2% gel at 80V for 90 min. I used only one DNA ladder of 1 KB for the same. 
 
-For 2% Gel
+  *For 2% Gel*
 
 | Gel Format| 1X TAE BUffer (mL) | Agarose (in g)|
 |---------|------------|------------|
-**| Small Box| 75 mL | 1.5 g|**
-**|Medium Box| 100 mL| 2.0 g|**
+| Small Box| 75 mL | 1.5 g|
+|Medium Box| 100 mL| 2.0 g|
 |Large Box| 150 mL|3.0 g|
 
 
@@ -110,7 +110,7 @@ Only one DNA ladder 1KB was used for these gels as previously 100 bp ladder was 
 ![ACR CRf/CO3r Gel 1](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/094911b938e4a365df157e68618b0a94866c48cf/images/E5_gDNA_Acropora_POST_PCR_gel_1_09_05_2025.jpg?raw=TRUE)
 ![ACR CRf/CO3r Gel 2](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/094911b938e4a365df157e68618b0a94866c48cf/images/E5_gDNA_Acropora_POST_PCR_gel_2_09_05_2025.jpg?raw=TRUE)
 
-##### Results from the Gel
+#### Results from the Gel
 
    1. Out of the 50 Colonies for *Acropora*, two colonies which are **ACR-140** and 
    **ACR-180** did not show any bands signifying that the PCR amplification did not work for those two.
@@ -163,7 +163,7 @@ This time I only loaded 3μL of sample and used the same DNA ladder 1KB.
 ![ACR CRf/CO3r Gel 1 09-10-2025](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/49135e754116f2b4b12257e3f1017c786244d877/images/E5_gDNA_Acropora_POST_PCR_failed_gel_1_09_10_2025.JPG?raw=TRUE)
 
 
-##### Results from the Gel
+#### Results from the Gel
 
    1. Out of the two colonies for *Acropora*, **ACR-140** did not show any bands even with dilutions.
    2. The gel products look nice for colony_id ACR-180 and the bands looks more linear now. 
@@ -210,7 +210,7 @@ Samples were stored in the fridge for the next steps after loading.
 
 ![ACR CRf/CO3r Gel 1 09-11-2025](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/49135e754116f2b4b12257e3f1017c786244d877/images/E5_gDNA_Acropora_POST_PCR_failed_gel_1_09_11_2025.JPG?raw=TRUE)
 
-##### Results from the Gel
+#### Results from the Gel
 
    1. The gel products look nice for colony_id ACR-140 and the bands looks more linear now.  
    2. There were **no** bands in the negative controls and band in the positive control for *A. pulchra*. 
