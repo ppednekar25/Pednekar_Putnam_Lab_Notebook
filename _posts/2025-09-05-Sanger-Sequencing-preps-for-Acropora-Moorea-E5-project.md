@@ -12,7 +12,7 @@ This post is also adapted based on the procedure from Arianna Huffmyer [Notebook
 
 # Overview
 
-gDNA extrcations for 44 of the colonies were completed by Kristina Terpis in 2021 and 2022. Some of the gDNA extractions from six colonies were sent off to Azenta for sequencing. Hence, Hollie Putnam extracted gDNA for those colonies on 08/29/2025. 
+gDNA extractions for 44 of the colonies were completed by Kristina Terpis in 2021 and 2022. Some of the gDNA extractions from six colonies were sent off to Azenta for sequencing. Hence, Hollie Putnam extracted gDNA for those colonies on 08/29/2025. 
 
 My samples were included in different boxes which were extracted by Kristina. The gDNA samples I used for the colonies are below. The Master Molecular Sample List is [here](https://docs.google.com/spreadsheets/d/1A764av1a3VORX6m9aDUEcoY9Bx9l0fvGtV5ycm2J9Wo/edit?gid=0#gid=0) while the *Acropora* colony IDs for the master timeseries data is [here](https://github.com/urol-e5/timeseries/blob/master/time_series_analysis/Output/master_timeseries.csv).
 
