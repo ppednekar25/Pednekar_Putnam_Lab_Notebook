@@ -138,15 +138,15 @@ I am re-running the PCR using an 8-strip tube. For each colony, I’ve prepared 
 
 1. The original sample (same concentration as before)
 2. A 1:10 dilution
-      |Sample ID| Volume of Sample| Volume of Water|
-      |----------|------------|-----------|
-      | T-207 ACR-140| 10 μL | 90 μL|
-      | T-197 ACR-180| 10 μL| 90 μL|
+|Sample ID| Volume of Sample| Volume of Water|
+|----------|------------|-----------|
+| T-207 ACR-140| 10 μL | 90 μL|
+| T-197 ACR-180| 10 μL| 90 μL|
 3. A 1:100 dilution
-      |Sample ID| Volume of Sample| Volume of Water|
-      |----------|------------|-----------|
-      | T-207 ACR-140| 1.0 μL | 99.0 μL|
-      | T-197 ACR-180| 1.0 μL| 99.0 μL|
+|Sample ID| Volume of Sample| Volume of Water|
+|----------|------------|-----------|
+| T-207 ACR-140| 1.0 μL | 99.0 μL|
+| T-197 ACR-180| 1.0 μL| 99.0 μL|
 
 In total, I’m including three samples per colony. I used a Danielle Becker Heatwave *Acropora pulchra* as a postive control (no. 24 gDNA from 10/29/23). Water was used as a negative control in the plate.
 
