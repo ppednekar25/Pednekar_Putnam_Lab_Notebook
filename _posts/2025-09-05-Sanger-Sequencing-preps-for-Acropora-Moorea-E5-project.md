@@ -8,7 +8,7 @@ tags: [E5, Acropora, Sanger Sequencing, PCR]
 
 The samples processed today are of *Acropora* species. Total of 50 colonies of *Acropora* were collected as a part of E5 Moorea Project. Here, I am processing the gDNA samples extracted from these 50 colonies for Sanger sequencing to identify species within these genera. 
 
-This post is also adapted based on the procedure from Arianna Huffmyer [Notebook Post](https://github.com/AHuffmyer/ASH_Putnam_Lab_Notebook/blob/master/_posts/2024-11-20-Sanger-sequencing-preps-at-URI.md?plain=1). 
+This post is also adapted based on the procedure from Arianna Huffmyer [Notebook Post](https://github.com/AHuffmyer/ASH_Putnam_Lab_Notebook/blob/master/_posts/2024-11-20-Sanger-sequencing-preps-at-URI.md?plain=). 
 
 # Overview
 
@@ -31,12 +31,16 @@ My samples were included in different boxes which were extracted by Kristina. Th
 
 # Acropora 
 
+## Sample Information
+
+Add sheet of all the samples you selected and their timepoints. 
+
 ## Primer selection 
 
 Hollie and Arianna have previously talked about the primers to use for *Acropora* species identification. Hollie previously tested some of the primers from the literature. 
 Arianna have used both the PaxC (PaxC_intron_FP1 forward and PaxC_intron_RP1 reverse) and CRf/CO3r (CRF forward and CO3r reverse) which were avaliable in the lab previously while prepping *Acropora* samples in 2024. 
 
-This time, Hollie recommended to use the [CRf/CO3r](https://github.com/AHuffmyer/moorea_symbiotic_exchange_2023/blob/main/data/dna/pcr/acr-primers/primer1-1.jpeg) (CRf forward and CO3r reverse) primer. 
+This time, Hollie recommended to use the [CRf/CO3r](https://github.com/AHuffmyer/moorea_symbiotic_exchange_2023/blob/main/data/dna/pcr/acr-primers/primer1-.jpeg) (CRf forward and CO3r reverse) primer. 
 |
 
 ### Crf/CO3r sequencing 
@@ -54,11 +58,11 @@ The primers were hydrated but were present in their original concentration which
 | CRf Primer 100μM |10μL|90μL|10μM|
 |CO3r Primer 100μM| 10μL|90μL|10μM|
 
-The diluted primers are stored in the tubes in the same "Putnam Lab Stick Primer Transparent Box on Shelf 1 -20 C Freezer F" along with the concentrated primers.
+The diluted primers are stored in the tubes in the same "Putnam Lab Stick Primer Transparent Box on Shelf  -20 C Freezer F" along with the concentrated primers.
 
 I prepared the master mix using One*Taq* Quick-Load 2X Master Mix from New England Biolabs. I made the master mix for 60 rxns as I was doing PCR for the first time. 
 
-|Component|1 rxns|60 rxns|
+|Component| rxns|60 rxns|
 |---------|---------|----------|
 |One*Taq* Quick-Load 2X master mix | 12.5 μL | 750 μL | 
 |10 μM CRf Primer| 0.5 μL|30 μL|
@@ -82,8 +86,8 @@ As the gDNA samples were present in the tubes and not plated on gDNA plates like
 The PCR protocol ("Acro" on Putnam Account) was used similar to previous *Acropora* PCRs by Arianna. 
 
 The settings for the thermocycler is follows:
-- 95°C for 3 min [1 cycle]
-- 94°C for 30 sec, 53°C for 30 sec, 72°C for 1 min [35 cycles] 
+- 95°C for 3 min [ cycle]
+- 94°C for 30 sec, 53°C for 30 sec, 72°C for  min [35 cycles] 
 *Note: Melting temperature chosen based on lowest primer melting temperature* 
 - 72°C for 5 min 
 - Hold at 4°C 
@@ -91,13 +95,13 @@ The settings for the thermocycler is follows:
 
 After PCR, samples were stored in the 4 C fridge. 
 
-I than ran two gels i.e. One Small and One Medium for the CRf/CO3r primer set using 2% gel at 80V for 90 min. I used only one DNA ladder of 1 KB for the same. 
+I than ran two gels i.e. One Small and One Medium for the CRf/CO3r primer set using 2% gel at 80V for 90 min. I used only one DNA ladder of  KB for the same. 
 
   *For 2% Gel*
 
 | Gel Format| 1X TAE BUffer (mL) | Agarose (in g)|
 |---------|------------|------------|
-| Small Box| 75 mL | 1.5 g|
+| Small Box| 75 mL | .5 g|
 |Medium Box| 100 mL| 2.0 g|
 |Large Box| 150 mL|3.0 g|
 
@@ -107,16 +111,16 @@ Sample loaded in each gel is 4μL.
 Only one DNA ladder 1KB was used for these gels as previously 100 bp ladder was also used by Arianna. The 100 bp ladder was not avaliable and as the targeted band size expected was closer to a 1000 bp, I went forward to just use the 1KB DNA Ladder.
 
 
-![ACR CRf/CO3r Gel 1](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/094911b938e4a365df157e68618b0a94866c48cf/images/E5_gDNA_Acropora_POST_PCR_gel_1_09_05_2025.jpg?raw=TRUE)
+![ACR CRf/CO3r Gel ](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/094911b938e4a365df157e68618b0a94866c48cf/images/E5_gDNA_Acropora_POST_PCR_gel_1_09_05_2025.jpg?raw=TRUE)
 ![ACR CRf/CO3r Gel 2](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/094911b938e4a365df157e68618b0a94866c48cf/images/E5_gDNA_Acropora_POST_PCR_gel_2_09_05_2025.jpg?raw=TRUE)
 
 #### Results from the Gel
 
-   1. Out of the 50 Colonies for *Acropora*, two colonies which are **ACR-140** and 
+   . Out of the 50 Colonies for *Acropora*, two colonies which are **ACR-140** and 
    **ACR-180** did not show any bands signifying that the PCR amplification did not work for those two.
    2. The gel products look nice however have a weird shape for all the bands. After consulting with Hollie, I realized that there could be too much product hence later for the next PCRs I loaded on 3μL of sample for running the gel on her recommendation.
    3. There were **no** bands in the negative controls and band in the positive control for *A. pulchra*. All other samples look good.
-   4. As the two samples from the colonies failed I would be redoing the PCR again with dilutions as well as the original concentration using the same tube numbers from timepoint 1.
+   4. As the two samples from the colonies failed I would be redoing the PCR again with dilutions as well as the original concentration using the same tube numbers from timepoint .
 
 
 #### 2025-09-10
@@ -125,7 +129,7 @@ For today, I redid PCR for two colonies that did not show any band for the gel r
 
 I also made a new master mix today. 
 
-|Component|1 rxns|16 rxns|
+|Component| rxns|16 rxns|
 |---------|---------|----------|
 |One*Taq* Quick-Load 2X master mix | 12.5 μL | 200 μL | 
 |10 μM CRf Primer| 0.5 μL|8.0 μL|
@@ -136,17 +140,17 @@ I also made a new master mix today.
 
 I am re-running the PCR using an 8-strip tube. For each colony, I’ve prepared three reactions corresponding to:
 
-1. The original sample (same concentration as before)
-2. A 1:10 dilution
+. The original sample (same concentration as before)
+2. A :10 dilution
 |Sample ID| Volume of Sample| Volume of Water|
 |----------|------------|-----------|
 | T-207 ACR-140| 10 μL | 90 μL|
 | T-197 ACR-180| 10 μL| 90 μL|
-3. A 1:100 dilution
+3. A :100 dilution
 |Sample ID| Volume of Sample| Volume of Water|
 |----------|------------|-----------|
-| T-207 ACR-140| 1.0 μL | 99.0 μL|
-| T-197 ACR-180| 1.0 μL| 99.0 μL|
+| T-207 ACR-140| .0 μL | 99.0 μL|
+| T-197 ACR-180| .0 μL| 99.0 μL|
 
 In total, I’m including three samples per colony. I used a Danielle Becker Heatwave *Acropora pulchra* as a postive control (no. 24 gDNA from 10/29/23). Water was used as a negative control in the plate.
 
@@ -160,12 +164,12 @@ The same setting was run for the PCR again and I ran only one 2% gel at 80 V for
 
 This time I only loaded 3μL of sample and used the same DNA ladder 1KB.
 
-![ACR CRf/CO3r Gel 1 09-10-2025](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/49135e754116f2b4b12257e3f1017c786244d877/images/E5_gDNA_Acropora_POST_PCR_failed_gel_1_09_10_2025.JPG?raw=TRUE)
+![ACR CRf/CO3r Gel  09-10-2025](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/49135e754116f2b4b12257e3f1017c786244d877/images/E5_gDNA_Acropora_POST_PCR_failed_gel_1_09_10_2025.JPG?raw=TRUE)
 
 
 #### Results from the Gel
 
-   1. Out of the two colonies for *Acropora*, **ACR-140** did not show any bands even with dilutions.
+   . Out of the two colonies for *Acropora*, **ACR-140** did not show any bands even with dilutions.
    2. The gel products look nice for colony_id ACR-180 and the bands looks more linear now. 
    3. There were **no** bands in the negative controls and band in the positive control for *A. pulchra*. 
    4. **As the one samples from the ACR-140 colony failed I would be redoing the PCR again with other samples from different timepoints.**
@@ -185,7 +189,7 @@ Today's goal was to redo the ACR-140 colony_id's remaining timepoints to check i
 
 
 The Master mix for today goes as follows:
-|Component|1 rxns|8 rxns|
+|Component| rxns|8 rxns|
 |---------|---------|----------|
 |One*Taq* Quick-Load 2X master mix | 12.5 μL | 100 μL | 
 |10 μM CRf Primer| 0.5 μL|4.0 μL|
@@ -197,7 +201,6 @@ The Master mix for today goes as follows:
 
 In total, I’m including two samples for each timepoint ACR-140 colony. I used a Danielle Becker Heatwave *Acropora pulchra* as a postive control (no. 24 gDNA from 10/29/23). Water was used as a negative control in the plate.
 
-
 The PCR Map for this day is below
 
 ![PCR MAP](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/49135e754116f2b4b12257e3f1017c786244d877/images/PCR_Map_Day_3.png?raw=TRUE).
@@ -208,15 +211,115 @@ This time sample loaded was 3.0 μL and used the same DNA ladder 1KB.
 
 Samples were stored in the fridge for the next steps after loading.
 
-![ACR CRf/CO3r Gel 1 09-11-2025](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/49135e754116f2b4b12257e3f1017c786244d877/images/E5_gDNA_Acropora_POST_PCR_failed_gel_1_09_11_2025.JPG?raw=TRUE)
+![ACR CRf/CO3r Gel  09-11-2025](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/49135e754116f2b4b12257e3f1017c786244d877/images/E5_gDNA_Acropora_POST_PCR_failed_gel_1_09_11_2025.JPG?raw=TRUE)
 
 #### Results from the Gel
 
-   1. The gel products look nice for colony_id ACR-140 and the bands looks more linear now.  
+   . The gel products look nice for colony_id ACR-140 and the bands looks more linear now.  
    2. There were **no** bands in the negative controls and band in the positive control for *A. pulchra*. 
 
-**As by the end of DAY 3, the PCR worked for all the 50 colonies of *Acropora* we are going to progress for cleaning and sample prepping to send off to sequencing.**
+**As by the end of DAY 3, the PCR worked for all the 50 colonies of *Acropora*.**
   
+For all the 50 colonies from a single timepoint of the *Acropora sp* worked, we can now proceed with cleaning and preparation for sequencing for all the single timepoint for all the 50 *Acropora* colonies. 
+
+I then perfomed a clean up using the [Zymo DNA Clean & Concentrator-5 50 Preps Kit](https://github.com/ppednekar25/Pednekar_Putnam_Lab_Notebook/blob/0242329d8049ee7ea11709ccadd92719ac509b9a/images/Zymo_DNA_Concentrator_e5_acropora.jpg?raw=TRUE) in single tube format. 
+
+**NOTE: During this cleaning process, I removed the failed samples from the first round of PCR and replaced with the successful PCR product for those samples. For ACR-140, I used the Tube# 467 from Timepoint 2 and that for ACR-180, I chose Tube # 197 with successful PCR product.**
+
+As the kit was not opened previously, I added 24 mL 100% Ethanol to the 6mL DNA Wash Buffer concentrate. I also diluted the forward and reverse primer to 3.2µM. 
+
+ For 50 colonies, I made enough diluted primer that I can use it for the sequencing plate.
+ Final Volume= 200 μL
+
+|Component|Volume of Water μL | Volume of Primer μL  | Final Concentration μM|
+|---------|---------|----------|--------|
+|100 μM CRf Primer| 193.6 μL|6.4 μL|3.2 μM|
+|100 μM CO3r Primer| 193.6 μL|6.4 μL|3.2 μM|
+
+### The steps for the cleanup goes as follows: 
+
+ . Spin the PCR Product plate in the centrifuge or the rotator.
+ 2. Take .5 mL of microcentrifuge tubes and add DNA Binding Buffer in 5: ratio to the PCR product.
+ 
+     *Note: As some of my samples were not exactly 20 μL in volume I had to do adjustments. I added the DNA buffer in 5: ratio as per below calculations.*
+
+    |Volume of DNA Binding Buffer in μL |PCR Product Volume in μL|
+    |----------|-----|
+    |35 uL | 7 μL|
+    |75 μL | 15 μL|
+    |85 μL| 17 μL|
+    |100 μL|20 μL|
+ 3. Vortex the mixture or mix it with the pipette so that it is completely mixed.
+ 4. Transfer the mixture to a provided Zymo-Spin COlumn in a collection tube.
+ 5. Centrifuge for  min at 13,000 rcf. Discard the flow-through in a beaker for now.
+ 6. Add 200 μL of DNA Wash Buffer to the column. Centrifuge for  min at 13,000 rcf. **REPEAT THIS STEP AGAIN** 
+
+    *All of the discarded flow through is collected in a ZR-96 DNA Cleaning waste bottle placed in the waste area next to the molecular hood. Even though the waste collection bottle was made for ZR-96 kit, the buffers that are used in the kit I am using also contains the same buffers and chemicals, hence I emptied the flow-through in the same ZR-96 cleanup waste bottle.*
+
+7. Carefully transfer the spin-column to the final microcentrifuge tubes that can hold your Ultra-pure DNA after the elution step.
+8. Lastly, add 40 μL of Elution Buffer directly to the column matrix and incubate at room temperature. Centrifuge for  minute at 13,000 rcf and elute the DNA.
+The Ultra-pure DNA is now ready to use. 
+
+I then plated the Ultra-pure DNA in a 96-well plate with the below Plate map.
+
+
+### Quantification of DNA through Qubit
+
+To make sure that the eluted DNA is of desired concentration, we randomly selected 10 colonies to test their concentration.
+
+Stock solution:
+
+dsDNA Broad Range = 13 X 199 μL= 2587 μL
+
+dsDNA BR reagent= 13 x  μL= 13 μL
+
+DNA Standards: 
+
+S1= 170.76 μg/mL          
+S2= 20572.80 μg/mL
+
+|Qubit Tube|Colony|Well|Reading |Reading 2|
+|---|---------|-----|-------|---------|
+||A5|ACR-190|2.96|2.92|
+|2|A12|ACR-180|10.3|10.3|
+|3|B2|ACR-145|5.62|5.66|
+|4|B7|ACR-390|6.54|6.54|
+|5|C4|ACR-360|5.18|5.16|
+|6|C10|ACR-244|7.07|7.00|
+|7|D3|ACR-374|7.39|7.42|
+|8|D8|ACR-231|7.06|7.02|
+|9|E1|ACR-389|8.26|8.24|
+|10|A8|ACR-368|3.76|3.64|
+
+
+
+
+
+### Sequencing plate post cleanup
+
+
+
+
+
+
+
+
+
+
+Step 2: Dilute your forward primer to 3.2µM
+
+
+
+
+
+8:22
+Step 3: Dilute your reverse primer to 3.2µM
+8:23
+Step 4: prepare a forward sequencing plate by adding 8µl of water + 2µl of 3.2µM forward primer and 2µl of clean PCR product
+8:23
+Step 5: prepare a forward sequencing plate by adding 8µl of water + 2µl of 3.2µM reverse primer and 2µl of clean PCR product
+8:24
+Step 6: seal the plates with foil and bring them to the pharmacy building loading dock freezer for the sequencing core
 
 
 
