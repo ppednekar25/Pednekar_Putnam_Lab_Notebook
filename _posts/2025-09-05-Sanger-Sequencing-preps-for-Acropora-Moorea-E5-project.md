@@ -240,7 +240,7 @@ As the kit was not opened previously, I added 24 mL 100% Ethanol to the 6mL DNA 
 
 ### The steps for the cleanup goes as follows: 
 
- . Spin the PCR Product plate in the centrifuge or the rotator.
+ 1. Spin the PCR Product plate in the centrifuge or the rotator.
  2. Take .5 mL of microcentrifuge tubes and add DNA Binding Buffer in 5: ratio to the PCR product.
  
      *Note: As some of my samples were not exactly 20 μL in volume I had to do adjustments. I added the DNA buffer in 5: ratio as per below calculations.*
