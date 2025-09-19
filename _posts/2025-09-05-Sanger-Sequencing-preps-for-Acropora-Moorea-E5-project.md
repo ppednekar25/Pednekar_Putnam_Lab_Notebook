@@ -292,34 +292,226 @@ S2= 20572.80 μg/mL
 |10|A8|ACR-368|3.76|3.64|
 
 
-
-
-
 ### Sequencing plate post cleanup
 
+We then sequenced both the forward and reverse for the CRf/CO3r primer set.
+
+Sample information is as follows:
+
+ #### CRf forward
+
+Plate 1/2
+
+|Sample ID| Sample Name|Plate Well| Template Type| PCR Template Volume (µl)| H2O Volume (µl)|Primer Volume (µl)|Primer Name|
+ |----|-------------|----|---|-----|-----|-----|-----|
+ |PP0001|ACR-165|A1|PCR|2|8|2|CRf|
+ |PP0002|ACR-193|B1|PCR|2|8|2|CRf|
+ |PP0003|ACR-265|C1|PCR|2|8|2|CRf|
+ |PP0004|ACR-364|D1|PCR|2|8|2|CRf|
+ |PP0005|ACR-389|E1|PCR|2|8|2|CRf|
+ |NA|Empty|F1|empty|empty|empty|empty|CRf|
+ |NA|Empty|G1|empty|empty|empty|empty|CRf|
+ |NA|Empty|H1|empty|empty|empty|empty|CRf|
+ |PP0006|ACR-175|A2|PCR|2|8|2|CRf|
+ |PP0007|ACR-145|B2|PCR|2|8|2|CRf|
+ |PP0008|ACR-256|C2|PCR|2|8|2|CRf|
+ |PP0009|ACR-241|D2|PCR|2|8|2|CRf|
+ |PP0010|ACR-139|E2|PCR|2|8|2|CRf|
+ |NA|Empty|F2|empty|empty|empty|empty|CRf|
+ |NA|Empty|G2|empty|empty|empty|empty|CRf|
+ |NA|Empty|H2|empty|empty|empty|empty|CRf|
+ |PP0011|ACR-186|A3|PCR|2|8|2|CRf|
+ |PP0012|ACR-218|B3|PCR|2|8|2|CRf|
+ |PP0013|ACR-258|C3|PCR|2|8|2|CRf|
+ |PP0014|ACR-374|D3|PCR|2|8|2|CRf|
+ |NA|Empty|E3|empty|empty|empty|empty|CRf|
+ |NA|Empty|F3|empty|empty|empty|empty|CRf|
+ |NA|Empty|G3|empty|empty|empty|empty|CRf|
+ |NA|Empty|H3|empty|empty|empty|empty|CRf|
+ |PP0015|ACR-187|A4|PCR|2|8|2|CRf|
+ |PP0016|ACR-345|B4|PCR|2|8|2|CRf|
+ |PP0017|ACR-360|C4|PCR|2|8|2|CRf|
+ |PP0018|ACR-393|D4|PCR|2|8|2|CRf|
+ |NA|Empty|E4|empty|empty|empty|empty|CRf|
+ |NA|Empty|F4|empty|empty|empty|empty|CRf|
+ |NA|Empty|G4|empty|empty|empty|empty|CRf|
+ |NA|Empty|H4|empty|empty|empty|empty|CRf|
+ |PP0019|ACR-190|A5|PCR|2|8|2|CRf|
+ |PP0020|ACR-350|B5|PCR|2|8|2|CRf|
+ |PP0021|ACR-363|C5|PCR|2|8|2|CRf|
+ |PP0022|ACR-237|D5|PCR|2|8|2|CRf|
+ |NA|Empty|E5|empty|empty|empty|empty|CRf|
+ |NA|Empty|F5|empty|empty|empty|empty|CRf|
+ |NA|Empty|G5|empty|empty|empty|empty|CRf|
+ |NA|Empty|H5|empty|empty|empty|empty|CRf|
+ |PP0023|ACR-351|A6|PCR|2|8|2|CRf|
+ |PP0024|ACR-379|B6|PCR|2|8|2|CRf|
+ |PP0025|ACR-246|C6|PCR|2|8|2|CRf|
+ |PP0026|ACR-176|D6|PCR|2|8|2|CRf|
+ |NA|Empty|E6|empty|empty|empty|empty|CRf|
+ |NA|Empty|F6|empty|empty|empty|empty|CRf|
+ |NA|Empty|G6|empty|empty|empty|empty|CRf|
+ |NA|Empty|H6|empty|empty|empty|empty|CRf|
+ |PP0027|ACR-347|A7|PCR|2|8|2|CRf|
+ |PP0028|ACR-390|B7|PCR|2|8|2|CRf|
+ |PP0029|ACR-228|C7|PCR|2|8|2|CRf|
+ |PP0030|ACR-225|D7|PCR|2|8|2|CRf|
+ |NA|Empty|E7|empty|empty|empty|empty|CRf|
+ |NA|Empty|F7|empty|empty|empty|empty|CRf|
+ |NA|Empty|G7|empty|empty|empty|empty|CRf|
+ |NA|Empty|H7|empty|empty|empty|empty|CRf|
+ |PP0031|ACR-368|A8|PCR|2|8|2|CRf|
+ |PP0032|ACR-396|B8|PCR|2|8|2|CRf|
+ |PP0033|ACR-243|C8|PCR|2|8|2|CRf|
+ |PP0034|ACR-231|D8|PCR|2|8|2|CRf|
+ |NA|Empty|E8|empty|empty|empty|empty|CRf|
+ |NA|Empty|F8|empty|empty|empty|empty|CRf|
+ |NA|Empty|G8|empty|empty|empty|empty|CRf|
+ |NA|Empty|H8|empty|empty|empty|empty|CRf|
+ |PP0035|ACR-140|A9|PCR|2|8|2|CRf|
+ |PP0036|ACR-178|B9|PCR|2|8|2|CRf|
+ |PP0037|ACR-343|C9|PCR|2|8|2|CRf|
+ |PP0038|ACR-229|D9|PCR|2|8|2|CRf|
+ |NA|Empty|E9|empty|empty|empty|empty|CRf|
+ |NA|Empty|F9|empty|empty|empty|empty|CRf|
+ |NA|Empty|G9|empty|empty|empty|empty|CRf|
+ |NA|Empty|H9|empty|empty|empty|empty|CRf|
+ |PP0039|ACR-150|A10|PCR|2|8|2|CRf|
+ |PP0040|ACR-185|B10|PCR|2|8|2|CRf|
+ |PP0041|ACR-244|C10|PCR|2|8|2|CRf|
+ |PP0042|ACR-220|D10|PCR|2|8|2|CRf|
+ |NA|Empty|E10|empty|empty|empty|empty|CRf|
+ |NA|Empty|F10|empty|empty|empty|empty|CRf|
+ |NA|Empty|G10|empty|empty|empty|empty|CRf|
+ |NA|Epty|H10|empty|empty|empty|empty|CRf|
+ |PP0043|ACR-173|A11|PCR|2|8|2|CRf|
+ |PP0044|ACR-210|B11|PCR|2|8|2|CRf|
+ |PP0045|ACR-213|C11|PCR|2|8|2|CRf|
+ |PP0046|ACR-231|D11|PCR|2|8|2|CRf|
+ |NA|Empty|E11|empty|empty|empty|empty|CRf|
+ |NA|Empty|F11|empty|empty|empty|empty|CRf|
+ |NA|Empty|G11|empty|empty|empty|empty|CRf|
+ |NA|Empty|H11|empty|empty|empty|empty|CRf|
+ |PP0047|ACR-180|A12|PCR|2|8|2|CRf|
+ |PP0048|ACR-51|B12|PCR|2|8|2|CRf|
+ |PP0049|ACR-234|C12|PCR|2|8|2|CRf|
+ |PP0050|ACR-267|D12|PCR|2|8|2|CRf|
+ |NA|Empty|E12|empty|empty|empty|empty|CRf|
+ |NA|Empty|F12|empty|empty|empty|empty|CRf|
+ |NA|Empty|G12|empty|empty|empty|empty|CRf|
+ |NA|Empty|H12|empty|empty|empty|empty|CRf|
+
+ #### CO3r reverse
+
+Plate 2/2 
+
+ |Sample ID| Sample Name|Plate Well| Template Type| PCR Template Volume (µl)| H2O Volume (µl)|Primer Volume (µl)|Primer Name|
+ |----|-------------|----|---|-----|-----|-----|-----|
+ |PP0051|ACR-165|A1|PCR|2|8|2|C03r|
+ |PP0052|ACR-193|B1|PCR|2|8|2|C03r|
+ |PP0053|ACR-265|C1|PCR|2|8|2|C03r|
+ |PP0054|ACR-364|D1|PCR|2|8|2|C03r|
+ |PP0055|ACR-389|E1|PCR|2|8|2|C03r|
+ |NA|Empty|F1|empty|empty|empty|empty|C03r|
+ |NA|Empty|G1|empty|empty|empty|empty|C03r|
+ |NA|Empty|H1|empty|empty|empty|empty|C03r|
+ |PP0056|ACR-175|A2|PCR|2|8|2|C03r|
+ |PP0057|ACR-145|B2|PCR|2|8|2|C03r|
+ |PP0058|ACR-256|C2|PCR|2|8|2|C03r|
+ |PP0059|ACR-241|D2|PCR|2|8|2|C03r|
+ |PP0060|ACR-139|E2|PCR|2|8|2|C03r|
+ |NA|Empty|F2|empty|empty|empty|empty|C03r|
+ |NA|Empty|G2|empty|empty|empty|empty|C03r|
+ |NA|Empty|H2|empty|empty|empty|empty|C03r|
+ |PP0061|ACR-186|A3|PCR|2|8|2|C03r|
+ |PP0062|ACR-218|B3|PCR|2|8|2|C03r|
+ |PP0063|ACR-258|C3|PCR|2|8|2|C03r|
+ |PP0064|ACR-374|D3|PCR|2|8|2|C03r|
+ |NA|Empty|E3|empty|empty|empty|empty|C03r|
+ |NA|Empty|F3|empty|empty|empty|empty|C03r|
+ |NA|Empty|G3|empty|empty|empty|empty|C03r|
+ |NA|Empty|H3|empty|empty|empty|empty|C03r|
+ |PP0065|ACR-187|A4|PCR|2|8|2|C03r|
+ |PP0066|ACR-345|B4|PCR|2|8|2|C03r|
+ |PP0067|ACR-360|C4|PCR|2|8|2|C03r|
+ |PP0068|ACR-393|D4|PCR|2|8|2|C03r|
+ |NA|Empty|E4|empty|empty|empty|empty|C03r|
+ |NA|Empty|F4|empty|empty|empty|empty|C03r|
+ |NA|Empty|G4|empty|empty|empty|empty|C03r|
+ |NA|Empty|H4|empty|empty|empty|empty|C03r|
+ |PP0069|ACR-190|A5|PCR|2|8|2|C03r|
+ |PP0070|ACR-350|B5|PCR|2|8|2|C03r|
+ |PP0071|ACR-363|C5|PCR|2|8|2|C03r|
+ |PP0072|ACR-237|D5|PCR|2|8|2|C03r|
+ |NA|Empty|E5|empty|empty|empty|empty|C03r|
+ |NA|Empty|F5|empty|empty|empty|empty|C03r|
+ |NA|Empty|G5|empty|empty|empty|empty|C03r|
+ |NA|Empty|H5|empty|empty|empty|empty|C03r|
+ |PP0073|ACR-351|A6|PCR|2|8|2|C03r|
+ |PP0074|ACR-379|B6|PCR|2|8|2|C03r|
+ |PP0075|ACR-246|C6|PCR|2|8|2|C03r|
+ |PP0076|ACR-176|D6|PCR|2|8|2|C03r|
+ |NA|Empty|E6|empty|empty|empty|empty|C03r|
+ |NA|Empty|F6|empty|empty|empty|empty|C03r|
+ |NA|Empty|G6|empty|empty|empty|empty|C03r|
+ |NA|Empty|H6|empty|empty|empty|empty|C03r|
+ |PP0077|ACR-347|A7|PCR|2|8|2|C03r|
+ |PP0078|ACR-390|B7|PCR|2|8|2|C03r|
+ |PP0079|ACR-228|C7|PCR|2|8|2|C03r|
+ |PP0080|ACR-225|D7|PCR|2|8|2|C03r|
+ |NA|Empty|E7|empty|empty|empty|empty|C03r|
+ |NA|Empty|F7|empty|empty|empty|empty|C03r|
+ |NA|Empty|G7|empty|empty|empty|empty|C03r|
+ |NA|Empty|H7|empty|empty|empty|empty|C03r|
+ |PP0081|ACR-368|A8|PCR|2|8|2|C03r|
+ |PP0082|ACR-396|B8|PCR|2|8|2|C03r|
+ |PP0083|ACR-243|C8|PCR|2|8|2|C03r|
+ |PP0084|ACR-231|D8|PCR|2|8|2|C03r|
+ |NA|Empty|E8|empty|empty|empty|empty|C03r|
+ |NA|Empty|F8|empty|empty|empty|empty|C03r|
+ |NA|Empty|G8|empty|empty|empty|empty|C03r|
+ |NA|Empty|H8|empty|empty|empty|empty|C03r|
+ |PP0085|ACR-140|A9|PCR|2|8|2|C03r|
+ |PP0086|ACR-178|B9|PCR|2|8|2|C03r|
+ |PP0087|ACR-343|C9|PCR|2|8|2|C03r|
+ |PP0088|ACR-229|D9|PCR|2|8|2|C03r|
+ |NA|Empty|E9|empty|empty|empty|empty|C03r|
+ |NA|Empty|F9|empty|empty|empty|empty|C03r|
+ |NA|Empty|G9|empty|empty|empty|empty|C03r|
+ |NA|Empty|H9|empty|empty|empty|empty|C03r|
+ |PP0089|ACR-150|A10|PCR|2|8|2|C03r|
+ |PP0090|ACR-185|B10|PCR|2|8|2|C03r|
+ |PP0091|ACR-244|C10|PCR|2|8|2|C03r|
+ |PP0092|ACR-220|D10|PCR|2|8|2|C03r|
+ |NA|Empty|E10|empty|empty|empty|empty|C03r|
+ |NA|Empty|F10|empty|empty|empty|empty|C03r|
+ |NA|Empty|G10|empty|empty|empty|empty|C03r|
+ |NA|Empty|H10|empty|empty|empty|empty|C03r|
+ |PP0093|ACR-173|A11|PCR|2|8|2|C03r|
+ |PP0094|ACR-210|B11|PCR|2|8|2|C03r|
+ |PP0095|ACR-213|C11|PCR|2|8|2|C03r|
+ |PP0096|ACR-231|D11|PCR|2|8|2|C03r|
+ |NA|Empty|E11|empty|empty|empty|empty|C03r|
+ |NA|Empty|F11|empty|empty|empty|empty|C03r|
+ |NA|Empty|G11|empty|empty|empty|empty|C03r|
+ |NA|Empty|H11|empty|empty|empty|empty|C03r|
+ |PP0097|ACR-180|A12|PCR|2|8|2|C03r|
+ |PP0098|ACR-51|B12|PCR|2|8|2|C03r|
+ |PP0099|ACR-234|C12|PCR|2|8|2|C03r|
+ |PP00100|ACR-267|D12|PCR|2|8|2|C03r|
+ |NA|Empty|E12|empty|empty|empty|empty|C03r|
+ |NA|Empty|F12|empty|empty|empty|empty|C03r|
+ |NA|Empty|G12|empty|empty|empty|empty|C03r|
+ |NA|Empty|H12|empty|empty|empty|empty|C03r|
+ 
+ 
+#### 20250915
+The sequencing plates were sent off for sequencing to Janet Atoyan at the RI Genomics & Sequencing Center in the loading dock freezer of the pharmacy building. 
 
 
+### Next Steps
 
-
-
-
-
-
-
-Step 2: Dilute your forward primer to 3.2µM
-
-
-
-
-
-8:22
-Step 3: Dilute your reverse primer to 3.2µM
-8:23
-Step 4: prepare a forward sequencing plate by adding 8µl of water + 2µl of 3.2µM forward primer and 2µl of clean PCR product
-8:23
-Step 5: prepare a forward sequencing plate by adding 8µl of water + 2µl of 3.2µM reverse primer and 2µl of clean PCR product
-8:24
-Step 6: seal the plates with foil and bring them to the pharmacy building loading dock freezer for the sequencing core
+We will analyze sequences to determine species ID and then decide how to proceed further. 
 
 
 
