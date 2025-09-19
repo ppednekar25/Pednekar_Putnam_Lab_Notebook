@@ -116,7 +116,7 @@ Only one DNA ladder 1KB was used for these gels as previously 100 bp ladder was 
 
 #### Results from the Gel
 
-   . Out of the 50 Colonies for *Acropora*, two colonies which are **ACR-140** and 
+   1. Out of the 50 Colonies for *Acropora*, two colonies which are **ACR-140** and 
    **ACR-180** did not show any bands signifying that the PCR amplification did not work for those two.
    2. The gel products look nice however have a weird shape for all the bands. After consulting with Hollie, I realized that there could be too much product hence later for the next PCRs I loaded on 3μL of sample for running the gel on her recommendation.
    3. There were **no** bands in the negative controls and band in the positive control for *A. pulchra*. All other samples look good.
@@ -140,17 +140,19 @@ I also made a new master mix today.
 
 I am re-running the PCR using an 8-strip tube. For each colony, I’ve prepared three reactions corresponding to:
 
-. The original sample (same concentration as before)
-2. A :10 dilution
-|Sample ID| Volume of Sample| Volume of Water|
-|----------|------------|-----------|
-| T-207 ACR-140| 10 μL | 90 μL|
-| T-197 ACR-180| 10 μL| 90 μL|
-3. A :100 dilution
-|Sample ID| Volume of Sample| Volume of Water|
-|----------|------------|-----------|
-| T-207 ACR-140| .0 μL | 99.0 μL|
-| T-197 ACR-180| .0 μL| 99.0 μL|
+1. The original sample (same concentration as before)
+2. 1:10 dilution
+
+     |Sample ID| Volume of Sample| Volume of Water|
+     |----------|------------|-----------|
+     | T-207 ACR-140| 10 μL | 90 μL|
+     | T-197 ACR-180| 10 μL| 90 μL|
+3. 1 :100 dilution
+
+     |Sample ID| Volume of Sample| Volume of Water|
+     |----------|------------|-----------|
+     | T-207 ACR-140| .0 μL | 99.0 μL|
+     | T-197 ACR-180| .0 μL| 99.0 μL|
 
 In total, I’m including three samples per colony. I used a Danielle Becker Heatwave *Acropora pulchra* as a postive control (no. 24 gDNA from 10/29/23). Water was used as a negative control in the plate.
 
@@ -169,7 +171,7 @@ This time I only loaded 3μL of sample and used the same DNA ladder 1KB.
 
 #### Results from the Gel
 
-   . Out of the two colonies for *Acropora*, **ACR-140** did not show any bands even with dilutions.
+   1. Out of the two colonies for *Acropora*, **ACR-140** did not show any bands even with dilutions.
    2. The gel products look nice for colony_id ACR-180 and the bands looks more linear now. 
    3. There were **no** bands in the negative controls and band in the positive control for *A. pulchra*. 
    4. **As the one samples from the ACR-140 colony failed I would be redoing the PCR again with other samples from different timepoints.**
@@ -215,7 +217,7 @@ Samples were stored in the fridge for the next steps after loading.
 
 #### Results from the Gel
 
-   . The gel products look nice for colony_id ACR-140 and the bands looks more linear now.  
+   1. The gel products look nice for colony_id ACR-140 and the bands looks more linear now.  
    2. There were **no** bands in the negative controls and band in the positive control for *A. pulchra*. 
 
 **As by the end of DAY 3, the PCR worked for all the 50 colonies of *Acropora*.**
